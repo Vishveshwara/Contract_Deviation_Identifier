@@ -1,0 +1,311 @@
+Independent Contractor Agreement
+
+This agreement is entered into as of the last date signed by the parties (the "Effective Date") between #PARTY A NAME#, [whose principal place of residence is at / a #PARTY A JURISDICTION# corporation with its principal place of business at #PARTY A ADDRESS#] (the "#PARTY A#") and #PARTY B NAME#, [whose principal place of residence is at / a #PARTY B JURISDICTION# corporation with its principal place of business at #PARTY B ADDRESS#] (the "#PARTY B#").
+
+(The capitalized terms used in this agreement, in addition to those above, are defined in section "DEFINITIONS".)
+
+1 Services Obligation
+
+#PARTY B# shall perform the #SHORT DESCRIPTION OF SERVICES# services for #PARTY A# (the "Work Product")], as described in #ATTACHMENT#, attached to this agreement (the "#DELIVERABLES#").
+
+2 Terms of Service
+
+2.1 Performance
+
+#PARTY B# shall perform the #DELIVERABLES# in a professional and workmanlike manner.
+
+2.2 Original Work and No Infringement
+
+#PARTY B# shall ensure the Work Product is original work and does not infringe, misappropriate, or violate any Intellectual Property or other proprietary rights of any third party.
+
+3 Changes
+
+3.1 Notice of Necessary Changes
+
+#PARTY B# shall promptly notify #PARTY A# in writing of any change to the #DELIVERABLES# #PARTY B# reasonably determines is necessary.
+
+3.2 Contents of Notice
+
+#PARTY B# shall include in its notice to #PARTY A#
+
+the particular elements of the #DELIVERABLES# #PARTY A# seeks to change,
+the reason for the requested change, and
+the impact, if any, that the requested change will have on
+the [price] [amount],
+time for [performance / delivery], or
+any other terms or conditions of this agreement.
+3.3 Changes Made in Writing
+
+Any changes to the #DELIVERABLES# must be in writing and signed by each party.
+
+4 Compensation
+
+#PARTY A# shall compensate #PARTY B# according to section "PAYMENT OF COMPENSATION" (the "Compensation").
+
+5 Payment of Compensation
+
+5.1 Compensation On Completion
+
+On completion of the #DELIVERABLES#, #PARTY A# shall pay #PARTY B# #COMPENSATION DUE ON COMPLETION# of the Compensation.
+
+5.2 Compensation After Certain Milestones
+
+#PARTY A# shall pay #PARTY B# the following Compensation amounts when #PARTY B# meets the following milestones:
+
+#FIRST MILESTONE COMPENSATION AMOUNT#, due on #SHORT DESCRIPTION OF FIRST MILESTONE#
+#SECOND MILESTONE COMPENSATION AMOUNT#, due on #SHORT DESCRIPTION OF SECOND MILESTONE#
+#THIRD MILESTONE COMPENSATION AMOUNT#, due on #SHORT DESCRIPTION OF THIRD MILESTONE#
+#FOURTH MILESTONE COMPENSATION AMOUNT#, due on #SHORT DESCRIPTION OF FOURTH MILESTONE#
+#FIFTH MILESTONE COMPENSATION AMOUNT#, due on #SHORT DESCRIPTION OF FIFTH MILESTONE#
+[INCLUDE ADDITIONAL MILESTONE PAYMENTS AND DESCRIPTIONS AS NECESSARY]
+5.3 Payment
+
+#PARTY A# shall pay all Compensation owed
+
+within #PAYMENT DEADLINE# Business Day's of the Compensation becoming due,
+in immediately available funds, and
+to the account #PARTY B# lists directly below:
+Account Number:
+Routing Number:
+6 Expenses
+
+6.1 Reimburse Pre-Approved Expenses
+
+#PARTY A# shall reimburse #PARTY B# for all reasonable and necessary expenses #PARTY B# incurs in connection with this agreement and that #PARTY A# pre-approves in writing.
+
+6.2 Receipts and Records
+
+#PARTY B# shall keep receipts or other records of its expenses to submit to #PARTY A# for reimbursement of its expenses.
+
+6.3 Expense Invoices
+
+Invoice Each Pay Period. #PARTY B# shall invoice #PARTY A# each #PAY PERIOD# for reimbursement of #PARTY B#'s expenses.
+Invoice Contents. #PARTY B# shall include with each invoice
+an invoice number,
+the receipts or other records reasonably detailing each expense in the invoice,
+the routing and account number necessary for #PARTY A# to make the payment.
+6.4 Payment of Invoices
+
+#PARTY A# shall reimburse #PARTY B# within 10 Business Days' of receiving each invoice in immediately available funds to the account #PARTY B# specifies above.
+
+7 Taxes
+
+Payment amounts under this agreement do not include taxes, and #PARTY A# shall pay all Taxes applicable to payments between the parties under this agreement.
+
+8 Term
+
+This agreement begins on the Effective Date and will continue until #PARTY B# completes and #PARTY A# accepts the #DELIVERABLES#, unless terminated earlier (the "Term").
+
+9 Representations
+
+9.1 Mutual Representations
+
+Existence. The parties are corporations incorporated and existing under the laws of the jurisdictions of their respective incorporation.
+Authority and Capacity. The parties have the authority and capacity to enter into this agreement.
+Execution and Delivery. The parties have duly executed and delivered this agreement.
+Enforceability. This agreement constitutes a legal, valid, and binding obligation, enforceable against the parties according to its terms.
+No Conflicts. Neither party is under any restriction or obligation that the party could reasonably expect might affect the party's performance of its obligations under this agreement.
+No Breach. Neither party’s execution, delivery, or performance of its obligations under this agreement will breach or result in a default under
+its articles, bylaws, or any unanimous shareholders agreement,
+any Law to which it is subject,
+any judgment, Order, or decree of any Governmental Authority to which it is subject, or
+any agreement to which it is a party or by which it is bound.
+Permits, Consents, and Other Authorizations. Each party holds all Permits and other authorizations necessary to
+own, lease, and operate its properties, and
+conduct its business as it is now carried on.
+No Disputes or Proceedings. [Except as disclosed in the parties respective Disclosure Schedules] There are no Legal Proceedings pending, threatened, or foreseeable against either party, which would affect that party’s ability to complete its obligations under this agreement.
+No Bankruptcy. Neither party has taken or authorized any proceedings related to that party’s bankruptcy, insolvency, liquidation, dissolution, or winding up.
+9.2 #PARTY B#’s Right to Assign
+
+To #PARTY B#'s Knowledge, there are no restraints or anything to interfere with the assignment of the Work Product.
+
+10 Relationship of the Parties
+
+10.1 No Relationship
+
+Nothing in this agreement creates any special relationship between the parties, such as a partnership, joint venture, or employee/employer relationship between the parties.
+
+10.2 No Authority
+
+Neither party will have the authority to, and will not, act as agent for or on behalf of the other party or represent or bind the other party in any manner.
+
+11 Equipment and Materials
+
+#PARTY B# shall supply all necessary equipment and materials for the #DELIVERABLES#.
+
+12 Inspection and Audit of Books and Records
+
+12.1 Retain Books and Records
+
+Each party shall keep its Books and Records (including personnel files) that relate to this agreement, and maintain them in a manner reasonably consistent with prior practices.
+
+12.2 Inspection and Audit
+
+On reasonable notice from the other party, each party shall provide the other party, and the other party's Representatives, reasonable access to its Books and Records that relate to this agreement (and allow the other party to make photocopies, at the other party's expense), during normal business hours.
+
+12.3 Corrections
+
+If either party's audit reveals errors or discrepancies in the other party's Books and Records, the other party shall promptly correct the error or discrepancy, including refunding any over-payments or making up any under-payments.
+
+13 Intellectual Property
+
+13.1 Ownership of Work Product
+
+The parties hereby acknowledge that the Work Product, and all documentation, information, systems, and other results developed in connection with the Work Product, will, to the extent permitted by Law, be a "work made for hire" within the definition of Section 101 of the Copyright Act (17 U.S.C. 101) and will remain #PARTY A#'s exclusive property.
+
+13.2 Assignment of Work Product
+
+If and to the extent that any Work Product is not deemed to be a work made for hire within the definition of the Copyright Act, at the completion and acceptance of the #DELIVERABLES#, #PARTY B# shall promptly assign to #PARTY A# all its right, title, and interest in and to the Work Product, including any Intellectual Property rights.
+
+13.3 Cooperation
+
+During and after the Term, on #PARTY A#'s reasonable request, #PARTY B# shall provide all assistance necessary and desirable for #PARTY A# to establish, preserve, and enforce its rights, title, and interest in and to the Work Product.
+
+13.4 Moral Rights
+
+At the completion and acceptance of the #DELIVERABLES#, #PARTY B# hereby irrevocably waives any moral rights it has in the Work Product, to the maximum extent permitted by Law.
+
+14 Non-Solicitation
+
+14.1 Non-Solicitation of Customers
+
+During the Term and for #NON-SOLICITATION DURATION# after the termination of this agreement, #PARTY B# shall not, and shall ensure that none of its Representatives, (a) encourage or solicit any customer, client, supplier, or licensee of #PARTY A# (or any person who was a customer, client, supplier, or licensee within the preceding #NON-SOLICITATION DURATION# month period) to cease doing business with #PARTY A# or (b) otherwise interfere with the relationship between #PARTY A# and any customer, client, supplier, or licensee (or any person who was a customer, client, supplier, or licensee within the preceding #NON-SOLICITATION DURATION# month period).
+
+14.2 Non-Solicitation of Employees
+
+During the Term and for #NON-SOLICITATION DURATION# month after the termination of this agreement, #PARTY B# shall not, and shall ensure that none of its Representatives, (a) encourage or solicit any employee or contractor of #PARTY A# to leave the employ or engagement of #PARTY A# or (b) otherwise interfere with the relationship between #PARTY A# and any employee or contractor of #PARTY A#.
+
+15 Non-Competition
+
+15.1 No Competition
+
+During the Term and for #NON-COMPETITION DURATION# months after the termination of this agreement, #PARTY B# shall not, without #PARTY A#'s prior written consent, (a) directly or indirectly engage in, become interested in, or be connected with (as a stockholder, director, officer, employee, partner, member, manager, principal, agent, Representative, or consultant), or (b) manage, operate, control, be employed by, participate in, consult with, or otherwise furnish any services or assistance to any business or entity that provides products or services that are the same as, or substantially similar to, those products or services provided by #PARTY A#.
+
+15.2 Exclusion
+
+The restrictions in this section 15 do not apply to:
+
+(a) #PARTY B#'s ownership of less than #15% of the outstanding stock of a publicly traded company or any other public company,
+(b) services provided to #PARTY A# under this agreement, or
+(c) the business of #PARTY B# (and its Affiliates) as conducted as of the Effective Date and provided it does not expand its business during the Term or at any time during the Non-Competition Period.
+
+16 Confidentiality
+
+16.1 Protecting Confidential Information
+
+Definition. #PARTY B# (and its Representatives) shall not use, disclose, or permit any third party to use or disclose, any Confidential Information.
+Permitted Disclosures. #PARTY B# (and its Representatives) may disclose Confidential Information to the extent required by applicable Law, provided #PARTY B# gives #PARTY A# prompt written notice before the disclosure, takes reasonable steps to protect the confidentiality of the Confidential Information, and uses the Confidential Information only as necessary to comply with the applicable Law.
+16.2 Return or Destruction
+
+On #PARTY A#'s written request or at the completion or termination of this agreement, #PARTY B# shall return to #PARTY A# or, at #PARTY A#'s written request, destroy all Confidential Information.
+
+17 Representations
+
+17.1 Mutual Representations
+
+Each party represents and warrants to the other party that:
+
+(a) Organization and Good Standing. It is duly organized, validly existing, and in good standing as a corporation or other entity under the laws of the jurisdiction of its incorporation or organization.
+(b) Authority. It has full power and authority to enter into this agreement, to carry out its obligations under this agreement, and to grant the rights and licenses granted in this agreement.
+(c) Binding Obligation. This agreement constitutes a legal, valid, and binding obligation, enforceable against it according to its terms.
+
+17.2 #PARTY B# Specific Representations
+
+#PARTY B# represents and warrants that (a) the Work Product is original and does not infringe or misappropriate any third-party Intellectual Property rights and (b) #PARTY B# has the full right and authority to disclose the Work Product to #PARTY A# under this agreement.
+
+18 Disclaimer
+
+#PARTY B# makes no representations or warranties with respect to the #DELIVERABLES#.
+
+19 Limitation of Liability
+
+19.1 No Consequential or Indirect Damages
+
+To the extent permitted by Law, in no event will #PARTY B# or its Affiliates be liable under this agreement for any consequential, indirect, special, punitive, or exemplary damages, regardless of the theory of liability, whether arising from contract, tort, including negligence or otherwise, and even if #PARTY B# has been advised of the possibility of such damages.
+
+19.2 #PARTY B# Liability Limits
+
+The total liability of #PARTY B# and its Affiliates arising out of or related to this agreement will not exceed the total amount paid by #PARTY A# under this agreement.
+
+20 Indemnification
+
+20.1 Indemnification by #PARTY B#
+
+#PARTY B# shall indemnify, defend, and hold harmless #PARTY A# and its Affiliates and their respective officers, directors, employees, agents, successors, and assigns from and against any and all losses, damages, liabilities, deficiencies, claims, actions, judgments, settlements, interest, awards, penalties, fines, costs, or expenses of whatever kind, including reasonable attorneys' fees, that are incurred by #PARTY A# and result from any third-party claim arising out of or related to:
+
+(a) the Work Product, including any claim that the Work Product infringes, misappropriates, or violates any third-party Intellectual Property rights or other proprietary rights, or
+
+(b) any breach or violation of this agreement by #PARTY B#.
+
+20.2 Indemnification Procedure
+
+Notice. #PARTY A# shall promptly notify #PARTY B# in writing of any claim under section "20.1# and give #PARTY B# sole control of the defense and settlement of the claim (provided that #PARTY B# may not settle or defend any claim unless it unconditionally releases #PARTY A# of all liability).
+21 Termination
+
+21.1 Termination for Convenience
+
+#PARTY A# may terminate this agreement for any reason upon #SHORT NOTICE PERIOD# notice to #PARTY B#.
+
+21.2 Termination for Cause
+
+Either party may terminate this agreement for cause upon #PARTY A# immediately with written notice if the other party:
+
+(a) breaches any material provision of this agreement and fails to cure the breach within #REMEDY PERIOD# days after receiving written notice of the breach from the non-breaching party, or
+
+(b) ceases its business operations or becomes subject to insolvency proceedings and not suspended or vacated within #30 DAYS OF BANKRUPTCY# days after the effective date of the order for relief or the appointment of a trustee, receiver, or liquidator for such party or any of its property.
+
+21.3 Effects of Termination
+
+Upon termination of this agreement for any reason:
+
+(a) #PARTY B# shall immediately cease all work under this agreement and deliver to #PARTY A# all Deliverables (whether completed or incomplete) and other materials, if any, related to the #DELIVERABLES#,
+(b) within 10 business days after the effective date of termination, #PARTY A# shall pay #PARTY B# any Compensation due for any services satisfactorily performed and delivered by #PARTY B# before the effective date of termination, and
+(c) each party shall return to the other party or destroy all Confidential Information of the other party in its possession or control.
+
+21.4 Survival
+
+Sections "13 INTELLECTUAL PROPERTY," "16 CONFIDENTIALITY," "19 LIMITATION OF LIABILITY," "20 INDEMNIFICATION," and "21 TERMINATION," and any other provisions that by their nature should survive, will survive any termination or expiration of this agreement.
+
+22 General
+
+22.1 Governing Law
+
+This agreement shall be governed by and construed in accordance with the laws of the State of #STATE IN JURISDICTION#, without regard to its conflicts of laws principles.
+
+22.2 Jurisdiction
+
+Any legal suit, action, or proceeding arising out of or related to this agreement shall be instituted in the federal courts of the United States of America or the courts of the State of #STATE IN JURISDICTION#, and each party irrevocably submits to the exclusive jurisdiction of such courts in any such suit, action, or proceeding.
+
+22.3 Entire Agreement
+
+This agreement, including all exhibits, attachments, and other documents incorporated herein, constitutes the sole and entire agreement of the parties to this agreement with respect to the subject matter contained herein, and supersedes all prior and contemporaneous understandings, agreements, representations, and warranties, both written and oral, regarding such subject matter.
+
+22.4 Amendments
+
+This agreement may only be amended, modified, or supplemented by an agreement in writing signed by each party.
+
+22.5 Waiver
+
+No waiver by any party of any of the provisions of this agreement shall be effective unless explicitly set forth in writing and signed by the party so waiving. No waiver by any party shall operate or be construed as a waiver in respect of any failure, breach, or default not expressly identified by such written waiver, whether of a similar or different character, and whether occurring before or after that waiver.
+
+22.6 Severability
+
+If any term or provision of this agreement is invalid, illegal, or unenforceable in any jurisdiction, such invalidity, illegality, or unenforceability shall not affect any other term or provision of this agreement or invalidate or render unenforceable such term or provision in any other jurisdiction.
+
+22.7 Counterparts
+
+This agreement may be executed in counterparts, each of which shall be deemed an original, but all of which together shall be deemed to be one and the same agreement. A signed copy of this agreement delivered by facsimile, email, or other means of electronic transmission shall be deemed to have the same legal effect as delivery of an original signed copy of this agreement.
+
+IN WITNESS WHEREOF, the parties have executed this Independent Contractor Agreement as of the Effective Date.
+
+#PARTY A#
+
+By:
+Name:
+Title:
+
+#PARTY B#
+
+By:
+Name:
+Title:

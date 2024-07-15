@@ -1,0 +1,283 @@
+Non-Disclosure Agreement (NDA)
+This agreement is entered into as of the last date signed by the parties (the "Effective Date") between #PARTY A NAME#, [whose principal place of residence is at / a #PARTY A JURISDICTION# corporation with its principal place of business at #PARTY A ADDRESS#] (the "#PARTY A#") and #PARTY B NAME#, [whose principal place of residence is at / a #PARTY B JURISDICTION# corporation with its principal place of business at #PARTY B ADDRESS#] (the "#PARTY B#").
+(The capitalized terms used in this agreement, in addition to those above, are defined in section "DEFINITIONS".)
+
+
+1	Exchange of Information
+The parties agree to exchange Confidential Information for the purpose of #DESCRIBE PURPOSE# (the "Purpose") in accordance with this Agreement.
+
+2	Confidential Information
+"Confidential Information" means all material, non-public, business-related information, written or oral, whether or not it is marked that is disclosed or made available to the receiving party, directly or indirectly, through any means of communication or observation.
+
+3	Non-Confidential Information
+3.1	Excluded Information
+The restrictions of this agreement on the use and disclosure of Confidential Information will not apply to information that without the breach of this agreement
+1.	is already known to the receiving party,
+2.	is or becomes publicly known,
+3.	is or subsequently comes into the possession of the receiving party from a third party, or
+4.	is independently developed by the receiving party without the use of Confidential Information.
+
+3.2	Burden of Proof 
+The receiving party will have the burden of proof relating to all exceptions to the definition of Confidential Information.
+
+4	Marking
+Information does not need to be marked "Confidential" to be deemed Confidential Information under this agreement.
+
+5	Confidentiality Obligation
+The receiving party will hold the Confidential Information in confidence.
+
+6	Limitation on Use
+  The receiving party may only use the Confidential Information in accordance with the terms of this agreement and solely for the Purpose.
+
+7	Non-Disclosure
+The receiving party will not disclose Confidential Information to a third party without the disclosing party's written consent.
+
+8	Non-Disclosure of Discussions
+Neither party may, without the other party's prior written consent, disclose the fact that
+1.	any discussions have taken place or are taking place concerning a potential business transaction or relationship between the parties, or that
+2.	any Confidential Information has been or may be disclosed between the parties.
+
+9	Standard of Care
+The receiving party will exercise reasonable care to protect the Confidential Information from any loss or unauthorized disclosure.
+
+10	Notification of Disclosure
+The receiving party shall promptly notify the disclosing party if it discovers any loss or unauthorized disclosure of Confidential Information.
+
+11	Return or Destruction of Confidential Information
+11.1	Obligation to Return or Destroy
+Subject to paragraph "ARCHIVE EXCEPTION", on the expiration or termination of this agreement, or on the disclosing party's request, the receiving party shall promptly
+1.	return to the disclosing party all Confidential Information provided by the disclosing party,
+2.	destroy all copies it made of Confidential Information, and
+3.	if requested by the disclosing party, deliver to the disclosing party a certificate executed by the receiving party confirming compliance with the return or destruction obligation under this section.
+
+11.2	Archive Exception
+1.	Comply With Law or Policy. The receiving party may retain an archival copy of the Confidential Information, to the extent necessary to comply with Law or archival policies.
+2.	Remain Subject to Confidentiality Obligations. The receiving party shall continue to hold any Confidential Information retained under this section in confidence, subject to all confidentiality obligations under this agreement.
+
+12	Required Disclosure
+12.1	Notification of Disclosure
+The receiving party may disclose Confidential Information if it is compelled by Law to disclose any Confidential Information if the receiving party
+1.	provides the disclosing party with prompt written notice so that the disclosing party may seek a protective order or other appropriate remedy and/or waive compliance with the provisions of this agreement,
+2.	cooperates with the disclosing party to obtain a protective order or another appropriate remedy.
+
+12.2	Limited Disclosure
+If the parties cannot obtain a protective order, another appropriate remedy, or otherwise fail to quash the legal process requiring disclosure, the receiving party may disclose the requested Confidential Information only to the extent necessary to satisfy the request.
+
+13	Mutual Non-Solicitation
+13.1	Non-Solicitation of Employees and Customers
+During the period starting on the Effective Date and ending #NON-SOLICITATION PERIOD TERM# weeks/months/years after the termination or expiration of this agreement (the "Non-Solicitation Period"), neither party will directly or indirectly, on its own behalf or in the service or on behalf of others, in any capacity
+1.	induce or attempt to induce any officer, director, or employee to leave the other party, or
+2.	solicit or accept, or attempt to solicit or accept, the business of any customer, consultant, or patron of the other party.
+
+13.2	Permitted Hirings and Business
+1.	Voluntary Contacts. Each party may employ or accept the business of the other party's officers, directors, employees, customers, consultants, or patrons who contact the party on their own initiative without any direct or indirect solicitation or encouragement by the party.
+2.	Former Employees. Each party may employ any former officer, director, or employee of the other party whose employment with the other party has terminated.
+3.	Former Customers. Each party may do business with any former customer, consultant, or patron of the other party who no longer does business with the other party.
+
+14	Standstill Representation and Covenants
+14.1	Standstill Representation
+Neither party is a record or beneficial owner of any securities of the other party, or any of the other party's Subsidiaries. 
+
+14.2	Standstill Covenants
+For a period of [one] year from the date of this agreement, unless specifically invited in writing by the other party to do so, neither party will, in any manner, directly or indirectly
+1.	effect or seek, offer or propose (whether publicly or otherwise) to effect, or cause or participate in or in any way advise, assist or encourage any other Person to effect or seek, offer or propose (whether publicly or otherwise) to effect, any
+a.	acquisition of record or beneficial securities or assets of the other party,
+b.	tender or exchange offer, merger, or other business combination involving the other party,
+c.	recapitalization, restructuring, liquidation, dissolution, or other extraordinary transaction with respect to the other party, or
+d.	"solicitation" of "proxies" (as such terms are used in the proxy rules of the SEC) or consents to vote any voting securities of the other party
+2.	take any action which might force the other party to make a public announcement regarding any of the types of matters listed in the four directly preceding sub-paragraphs, or
+3.	form, join, or in any way participate in a "group" (as defined under the Exchange Act) with respect to any securities of the other party,
+4.	otherwise act, alone or in concert with others, to seek to control or influence the management, board of directors, or policies of the other party, or
+5.	enter into any discussions or arrangements with any Person with respect to any of the foregoing.
+
+14.3	No Waiver
+Each party hereby agrees not to request the other party (or its Representatives), directly or indirectly, to amend or waive any provision of this section "STANDSTILL", including this sentence.
+
+14.4	No Voting Securities
+As of the date of this agreement, neither party, nor any of their Subsidiaries, own, of record or beneficially, any voting securities of the other party, or any securities convertible into or exercisable for any voting securities of the other party.
+
+14.5	End of Obligations
+The obligations under this section "STANDSTILL" will terminate as to a party and its Subsidiaries if
+1.	any third party unaffiliated with the other party initiates a tender or exchange offer for, or otherwise publicly proposes or agrees to acquire, a majority of the outstanding common stock or voting power of the other party, or 
+2.	the other party enters into any agreement to merge with, sell, or dispose of assets or securities representing 50% or more of its earning power to, any Person not an Affiliate of the other party.
+
+15	No Modification of Confidential Information
+The receiving party will not copy, decompile, modify, reverse engineer, or create derivative works out of any Confidential Information without the disclosing party's written consent.
+
+16	Permitted Disclosure
+The receiving party may disclose Confidential Information
+1.	if and to the extent that the disclosing party consents in writing to such disclosure, or
+2.	to the receiving party's officers, directors, employees, Affiliates, or representatives who
+a.	need-to-know that Confidential Information in furtherance of the Purpose[ or Transaction],
+b.	have been informed of the confidentiality obligations of this agreement,  and
+c.	agree to abide and be bound by the provisions this agreement.
+
+
+17	Term of Confidentiality
+17.1	Trade Secrets
+In connection with Confidential Information that constitutes a trade secret, the obligation of confidentiality will continue until that information is no longer a trade secret.
+
+17.2	Other Confidential Information
+In connection with all other Confidential Information, the obligations of this agreement will begin on the Effective Date and continue for a period of #TERM PERIOD# months/years.
+
+18	Mutual Representations
+18.1	Authority and Capacity
+The parties have the authority and capacity to enter into this agreement.
+
+18.2	Execution and Delivery
+The parties have executed and delivered this agreement.
+
+18.3	Enforceability
+This agreement constitutes a legal, valid, and binding obligation, enforceable against the parties according to its terms.
+
+18.4	No Conflicts
+Neither party is under any restriction or obligation that may affect the performance of its obligations under this agreement.
+
+19	No Warranty
+ The disclosing party makes no representation as to the accuracy or completeness of the Confidential Information.
+
+20	Ownership and Return of Confidential Information
+20.1	Ownership
+Any Confidential Information exchanged under this agreement will remain the disclosing party's exclusive property.
+
+20.2	Return
+At the end of this agreement, each party shall
+1.	return all Confidential Information received from the other party, and
+2.	destroy any copies they party made of any Confidential Information.
+
+21	No License Right
+  No license, implied or otherwise, is granted under this agreement to either party's Intellectual Property, other than to use the Confidential Information in the manner and to the extent authorized under this agreement.
+
+22	No Other Obligations
+Neither party has any obligation under this agreement to purchase from or provide to the other party any products or services, or to enter into any other agreement.
+
+23	Independent Development
+The parties hereby acknowledge that each party may currently or in the future be developing information internally or receiving Confidential Information from other parties that may be similar or competitive to the Confidential Information disclosed under this agreement.
+
+24	Acknowledgement of Securities Laws
+Each party is aware, and will advise their respective Representatives who are informed of the matters of this agreement, of the restrictions imposed by the federal and state securities Laws on the purchase or sale of securities by any Person who has received material, non-public information from the issuer of such securities, and on the communication of such information to any other Person when it is reasonably foreseeable the other Person is likely to purchase or sell such securities in reliance on that information.
+
+25	Termination on Notice
+#PARTY A# may terminate this agreement for any reason on #TERMINATION NOTICE PERIOD# Business Days’ notice to #PARTY B#.
+
+26	Indemnification
+26.1	Indemnification Obligation
+Subject to paragraph "NOTICE AND FAILURE TO NOTIFY", the receiving party shall indemnify the disclosing party against all losses suffered by the disclosing party and arising out of the receiving party or its Representative's
+1.	unauthorized or improper use or disclosure of any Confidential Information,
+2.	breach of its obligations under this agreement, or
+3.	misconduct or negligence. 
+
+26.2	Notice and Failure to Notify
+1.	Notice Requirement. Before bringing a claim for indemnification, the indemnified party shall
+a.	notify the indemnifying party of the indemnifiable proceeding, and
+b.	deliver to the indemnifying party all legal pleadings and other documents reasonably necessary to indemnify or defend the indemnifiable proceeding.
+2.	Failure to Notify. If the indemnified party fails to notify the indemnifying party of the indemnifiable proceeding, the indemnifying will be relieved of its indemnification obligations to the extent it was prejudiced by the indemnified party's failure.
+
+26.3	Exclusive Remedy
+The parties' right to indemnification is the exclusive remedy available in connection with the indemnifiable proceedings described in this section "INDEMNIFICATION".
+
+27	Equitable Relief
+27.1	Acknowledgment of Irreparable Harm
+Each party acknowledges that their breach or threatened breach of their obligations under sections "CONFIDENTIALITY", "NON-COMPETITION", and "NON-SOLICITATION" #SPECIFIC OBLIGATIONS# would result in irreparable harm to the other party that cannot be adequately relieved by money damages alone.
+
+27.2	Intent to Allow for Equitable Remedies
+Accordingly, the parties hereby acknowledge their mutual intent that after any breach of the obligations listed in the paragraph directly above, the non-breaching party may request any applicable equitable remedies from a court, including injunctive relief, without the need for that party to post any security.
+
+28	Definitions
+"Action" means any legal or administrative claim, suit, action, complaint, charge, grievance, arbitration, audit, investigation, inquiry or other proceeding.
+
+"Affiliates" means with respect to each party, any other person that, directly or indirectly, controls, or is controlled by, or is under common control with, such party. As used in this definition, "control" (including, with its correlative meanings, "controlled by" and "under common control with") shall mean the possession, directly or indirectly, through one or more intermediaries, of the power to direct or cause the direction of management or policies of a person, whether through the ownership of securities or partnership or other ownership interests, by contract or otherwise.
+
+"Business Day" means a day other than a Saturday, a Sunday, or any other day on which the principal banks located in [New York, New York] are not open for business.
+
+"Confidential Information" is defined in section "CONFIDENTIAL INFORMATION".
+
+"Exchange Act" means the Securities Exchange Act of 1934, as amended (including the rules and regulations promulgated under the Securities Exchange Act of 1934).
+
+"Governmental Authority" means 
+1.	 any federal, state, local, or foreign government, and any political subdivision of any of them, 
+2.	 any agency or instrumentality of any such government or political subdivision, 
+3.	 any self-regulated organization or other non-governmental regulatory authority or quasi-governmental authority (to the extent that its rules, regulations or orders have the force of Law), or 
+4.	 any arbitrator, court or tribunal of competent jurisdiction. 
+
+"Intellectual Property" means any and all of the following in any jurisdiction throughout the world
+1.	 trademarks and service marks, including all applications and registrations, and the goodwill connected with the use of and symbolized by the foregoing,
+2.	 copyrights, including all applications and registrations related to the foregoing,
+3.	 trade secrets and confidential know-how,
+4.	 patents and patent applications,
+5.	 websites and internet domain name registrations; and other intellectual property and related proprietary rights, interests and protections (including all rights to sue and recover and retain damages, costs and attorneys' fees for past, present, and future infringement, and any other rights relating to any of the foregoing). 
+
+"Law" means
+1.	 any law (including the common law), statute, by-law, rule, regulation, order, ordinance, treaty, decree, judgment, and
+2.	 any official directive, protocol, code, guideline, notice, approval, order, policy, or other requirement of any Governmental Authority having the force of law.
+
+"Non-Solicitation Period" is defined in section "NON-SOLICITATION".
+
+"Person" includes 
+1.	 any corporation, company, limited liability company, partnership, Governmental Authority, joint venture, fund, trust, association, syndicate, organization, or other entity or group of persons, whether incorporated or not, and 
+2.	 any individual. 
+
+"Purpose" is defined in section "PURPOSE".
+
+"Representative" means the parties' respective directors, officers, employees, accountants, consultants, legal counsel, financial advisors, agents, and other representatives, with it being acknowledged and agreed that any shareholder of that is not a director, officer, employee, accountant, consultant, legal counsel, financial advisor, or agent shall not be deemed to be a Representative for purposes of this agreement.
+
+"Restricted Period" is defined in section "CONFIDENTIALITY".
+
+"SEC" means the Securities and Exchange Commission.
+
+"Subsidiaries" means any legal entity
+1.	 that a party owns more than 50% of the entity's outstanding voting securities or equity interests, or
+2.	 of which a party is a general partner (excluding partnerships in which such party or any Subsidiary of such party does not have a majority of the voting interests in such partnership).
+
+"Term" is defined in section "TERM".
+
+29	Entire Agreement
+This agreement represents the entire understanding between the parties with respect to its subject matter and supersedes any previous communication or agreements that may exist.
+
+30	Counterparts
+This Agreement may be executed in counterparts, each of which shall be deemed to be an original, but all of which, taken together, shall constitute one and the same agreement.
+
+31	Amendment 
+This agreement can be amended only by a writing signed by both parties.
+
+32	Notices
+1.	Method of Notice. The parties shall give all notices and communications between the parties in writing by (i) personal delivery, (ii) a nationally-recognized, next-day courier service, (iii) first-class registered or certified mail, postage prepaid[, (iv) fax][, or (v) electronic mail] to the party's address specified in this agreement, or to the address that a party has notified to be that party's address for the purposes of this section.
+2.	Receipt of Notice. A notice given under this agreement will be effective on
+a.	the other party's receipt of it, or
+b.	if mailed, the earlier of the other party's receipt of it and the [fifth] business day after mailing it. 
+
+
+33	Assignment
+Neither party may assign this agreement or any of their rights or obligations under this agreement without the other party's written consent.
+
+34	Governing Law
+This agreement shall be governed, construed, and enforced in accordance with the laws of the State of #GOVERNING LAW STATE#, without regard to its conflict of laws rules.
+
+35	Waiver
+The failure or neglect by a party to enforce any of rights under this agreement will not be deemed to be a waiver of that party's rights. 
+
+36	Severability
+If any part of this agreement is declared unenforceable or invalid, the remainder will continue to be valid and enforceable.
+
+37	Headings
+The section headings contained in this agreement are for reference purposes only and shall not affect the meaning or interpretation of this agreement.
+
+38	Attorney Fees
+If either party brings an Action to enforce their rights under this agreement, the prevailing party may recover its expenses (including reasonable attorneys' fees) incurred in connection with the Action and any appeal from the losing party.
+
+This agreement has been signed by the parties.
+#PARTY A NAME#
+#PARTY B NAME#
+Full Name:
+Title:
+Date:
+Signature:
+
+	Full Name:
+Title:
+Date:
+Signature:
+
+
+
+

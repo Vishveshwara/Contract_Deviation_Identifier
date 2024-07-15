@@ -1,0 +1,88 @@
+Key Entity Template for Employee Stock Purchase Plan (ESPP) Contract
+
+1. Parties Involved:
+
+Company (Party A):
+Name: [Company Name]
+Principal place of business: [Company Address]
+Contact information: [Phone Number, Email Address]
+Participant (Party B):
+Name: [Participant Name]
+Principal place of residence: [Participant Address]
+Contact information: [Phone Number, Email Address]
+2. Key Terms:
+
+Effective Date:
+This plan will become effective on the earlier of:
+The Board adopting the plan, or
+The Company's stockholders approving the plan.
+
+Term of the Plan:
+Duration: This plan will continue for a term of [#TERM PERIOD# months/years], unless terminated earlier under the "Amendment or Termination" section.
+
+3. Definitions:
+Administrator: The entity authorized to manage the plan, including the ability to amend, suspend, or terminate it.
+Board: The Company's Board of Directors.
+Business Day: A day other than Saturday, Sunday, or any other day on which the principal banks located in New York, New York are not open for business.
+Change in Control: This event is triggered by:
+Any person becoming the beneficial owner of more than 50% of the total voting power of the Company’s securities.
+The Company’s sale or disposition of all or substantially all of its assets.
+A merger or consolidation resulting in significant changes to the voting securities of the Company.
+Changes in the composition of the Board over a 12-month period that do not include members from the initial employment period of Party B.
+Events or transactions solely for changing the state of incorporation or creating a holding company.
+Code: The Internal Revenue Code of 1986, as amended.
+Committee: The Compensation Committee of the Board or its authorized delegate.
+Compensation: All cash compensation reportable on Form W-2, including base earnings, commissions, overtime, premiums, incentive payments, bonuses, and 401(k) contributions.
+Contributions: Payroll deductions and other payments permitted to fund the exercise of options granted under the plan.
+Eligible Employee: As defined in the "Eligibility" section of the plan.
+Employee: Any person employed by the Company or its Subsidiaries.
+Enrollment Date: The first trading day on or after specified dates of each year ([DATE, MONTH] and [DATE, MONTH]).
+Exchange Act: The Securities Exchange Act of 1934, as amended.
+Exercise Date: The date approximately six months after the Enrollment Date of an Offering Period, and one trading day before the Enrollment Date of the next Offering Period.
+Fair Market Value: The closing sales price of the Company's common stock as quoted on the primary stock exchange on the last trading day before the date of determination.
+Law: Includes any applicable law, statute, by-law, rule, regulation, order, ordinance, treaty, decree, judgment, and any official directive, protocol, code, guideline, notice, approval, order, policy, or other requirement of any governmental authority having the force of law.
+New Exercise Date: A new date set by the Administrator if an Offering Period is shortened.
+Offering Period: Periods of approximately six months during which options may be exercised, commencing on the first trading day on or after [February 1] and [August 1] each year.
+Offering: An offer under the plan for options exercisable during an Offering Period.
+Parent: As defined in Section 424(e) of the Code.
+Participant: As defined in the "Participation" section.
+Permits: All necessary licenses, permits, certificates, approvals, and authorizations from governmental authorities.
+Person: Includes any corporation, company, limited liability company, partnership, governmental authority, joint venture, fund, trust, association, syndicate, organization, or other entity or group of persons, whether incorporated or not, and any individual.
+Purchase Price: Generally 85% of the lower of the Fair Market Value of the Company’s common stock on the Enrollment Date or Exercise Date, subject to adjustment by the Administrator.
+Subsidiaries: Entities in which the Company owns more than 50% of the voting securities or is a general partner.
+Taxes: Includes all types of governmental charges, duties, fees, levies, and other charges, including income, franchise, capital stock, property, withholding, employment, payroll, social security, unemployment, transfer, sales, use, excise, gross receipts, value-added, and related charges, interest, or penalties.
+Trading Day: A day on which the relevant stock exchange is open for trading.
+
+4. Plan Administration:
+Amendment or Termination:
+Administrator's Rights: The Administrator can amend, suspend, or terminate the plan or any part of it for any reason.
+Options on Termination: The Administrator may terminate all outstanding Offering Periods immediately or upon the next Exercise Date or allow them to expire per their terms.
+Early Termination Consequences: If Offering Periods are terminated early, the Company will return all unused contributions to Participants without interest, unless otherwise required by law.
+Termination and Return of Payroll Deductions:
+Plan Termination: The plan and all employee rights under an Offering will terminate when accumulated payroll deductions can purchase all available shares or at the Board’s discretion.
+Return of Deductions: On plan termination, the Company will refund all unused payroll deductions to Participants.
+Changes without Stockholder Consent:
+The Board or Committee can make changes to the Offering Periods, withholding limits, exchange ratios for foreign currencies, payroll withholding adjustments, and other necessary procedures without stockholder approval.
+Changes for Financial Accounting:
+The Administrator can modify the plan to avoid unfavorable financial accounting consequences, including changing the Purchase Price, shortening Offering Periods, reducing maximum contributions or shares, and other necessary adjustments.
+
+5. Miscellaneous Provisions:
+Notices:
+Method: Notices must be in writing and delivered via personal delivery, courier, certified mail, fax, or email to the specified addresses.
+Effectiveness: Notices are effective upon receipt or five business days after mailing.
+Binding Effect: The agreement benefits and binds the parties and their heirs, successors, and permitted assigns.
+Assignment: Neither party may assign their rights or obligations without written consent.
+Governing Law: The agreement is governed by the laws of the State of [GOVERNING LAW STATE], without regard to conflict of laws principles.
+Severability: If any part of the agreement is invalid, the remainder will continue to be enforceable.
+6. Signatures:
+
+Company Representative:
+Full Name:
+Title:
+Date:
+Signature:
+Participant:
+Full Name:
+Title:
+Date:
+Signature:

@@ -1,0 +1,125 @@
+Severance Agreement
+This agreement is entered into as of the last date signed by the parties (the "Effective Date") between #PARTY A NAME#, [whose principal place of residence is at / a #PARTY A JURISDICTION# corporation with its principal place of business at #PARTY A ADDRESS#] (the "#PARTY A#") and #PARTY B NAME#, [whose principal place of residence is at / a #PARTY B JURISDICTION# corporation with its principal place of business at #PARTY B ADDRESS#] (the "#PARTY B#").
+
+(The capitalized terms used in this agreement, in addition to those above, are defined in section "DEFINITIONS".)
+
+1. Release and Benefits
+1.1 #PARTY B# Shall Release #PARTY A#
+#PARTY B# shall fully release #PARTY A# from all claims, debts, and causes of action they may have against #PARTY A# or #PARTY A#'s representatives, according to section "GENERAL RELEASE AND AGREEMENT NOT TO SUE".
+
+1.2 #PARTY A# Shall Pay Benefits to #PARTY B#
+#PARTY A# shall pay to #PARTY B# certain benefits, according to the reason for termination, according to section "SEVERANCE BENEFITS".
+
+2. General Release of Claims and Promise Not to Sue
+2.1 General Release
+Subject to paragraph "EXCEPTIONS" and to the extent permitted by Law, #PARTY B# hereby irrevocably releases and agrees not to sue #PARTY A#, or #PARTY A#'s parent, Subsidiaries, Affiliates, Representatives, or executive benefit plans from any of these listed entities from or for any and all claims, debts, and causes of action #PARTY B# has against any of these listed entities, arising before the Effective Date, whether or not #PARTY B# Knew of them as of the Effective Date, including any claims:
+
+arising out of #PARTY B#'s employment with #PARTY A# or the ending of that employment,
+arising under federal, state, or local Laws relating to employment, including claims of wrongful discharge, retaliation, breach of express or implied contract, fraud, misrepresentation, defamation, or liability in tort,
+arising under Title VII of the Civil Rights Act of 1964, the Vietnam Era Veterans' Readjustment Assistance Act of 1974, the Uniformed Services Employment and Reemployment Rights Act, the Americans with Disabilities Act, the Age Discrimination in Employment Act, Employee Retirement Income Security Act, the Family and Medical Leave Act, other fair employment practice acts, and other employment laws,
+arising under similar state or local Laws, statutes, ordinances, and regulations, and
+brought in any court or administrative agency.
+2.2 Exceptions
+#PARTY B#'s release under paragraph "GENERAL RELEASE" will not include claims:
+
+for pension, retirement, or savings benefits which are or are required to be inalienable under the terms of any #PARTY A# executive benefit plan, or
+with respect to the enforcement of this agreement, including rights to receive the indemnifications under this agreement.
+3. Severance Benefits
+3.1 After Termination for Any Reason
+If #PARTY B#'s employment is terminated for any reason under section "TERMINATION", #PARTY A# shall pay #PARTY B#:
+
+unearned but unpaid Base Salary through the date of termination,
+any annual incentive plan bonus, or other form of incentive compensation for which the performance measurement period has ended, but which is still unpaid at the date of termination,
+any accrued but unpaid vacation and unused sick days, and
+unreimbursed business expenses incurred by #PARTY B# on behalf of #PARTY A#.
+3.2 After Termination Without Cause or for Good Reason
+In addition to the benefits under paragraph "AFTER TERMINATION FOR ANY REASON", if #PARTY B#'s employment is terminated under paragraphs [PARTY A'S TERMINATION WITHOUT CAUSE] or [PARTY B'S TERMINATION FOR GOOD REASON], #PARTY A# shall continue to pay and provide to #PARTY B# the Severance Package (defined below) for the #CAUSE OR GOOD REASON SEVERANCE PERIOD MONTHS# month severance period following the date of termination, and according to #PARTY A#'s normal payroll practices.
+
+3.3 After Termination for a Change in Control
+In addition to the benefits under paragraph "AFTER TERMINATION FOR ANY REASON", if during the two year period beginning one year before a Change in Control and ending one year after a Change in Control, #PARTY B#'s employment is terminated under paragraph "TERMINATION FOR CHANGE IN CONTROL", #PARTY A# shall continue to pay and provide to #PARTY B# the Severance Package for the #CHANGE IN CONTROL SEVERANCE PERIOD MONTHS# month severance period following the date of termination, and according to #PARTY A# normal payroll practices.
+
+3.4 Severance Package
+The "Severance Package" includes:
+
+payment of #PARTY B#'s Base Salary over the applicable severance period,
+continued coverage under #PARTY A#'s medical, dental, life, disability, and other employee benefit plans senior executives or #PARTY A# are allowed to participate in, to the extent #PARTY B# is eligible under the terms of those plans immediately before the date of termination, for the applicable severance period, if and until #PARTY B# begins receiving similar benefits from a new employer, and
+permitting any awards #PARTY B# holds under any #PARTY A# stock option or incentive plan to continue to vest, and if applicable, permit #PARTY B# to exercise awards under those plans as if #PARTY B# was still employed with #PARTY A# over the applicable severance period.
+4. Tax Withholding
+#PARTY A# may withhold Taxes from any amounts it pays to #PARTY B# under this agreement, including federal, state and local Taxes as may be required to be withheld under any applicable Law.
+
+5. Term
+This agreement begins on the Effective Date, and will continue through the expiration or termination of #PARTY B#'s employment with #PARTY A#, unless terminated earlier (the "Term").
+
+6. At-Will Employment
+The parties hereby acknowledge:
+
+that #PARTY B#'s employment with #PARTY A# is and will continue to be "At-Will", as defined under applicable Law, under #PARTY B#'s employment agreement with #PARTY A# (the "Employment Agreement"), and
+their mutual intent that nothing in #PARTY A#'s policies, actions, or this agreement should be construed to alter the "At-Will" nature of #PARTY B#'s employment.
+7. Older Workers Benefit Protection Act
+7.1 Compliance with Act
+The parties hereby acknowledge their mutual intent that this agreement comply with and be enforceable under the terms of the Older Workers Benefit Protection Act of 1990.
+
+7.2 #PARTY B#'s Acknowledgments
+#PARTY B# hereby acknowledges that before signing this agreement, #PARTY B#:
+
+has been given the opportunity, for no less than [21] Business Days, to consider the terms of this agreement,
+has been given ample opportunity to consult with an attorney regarding this agreement,
+has carefully read and fully understands all of the terms of this agreement,
+knowingly and voluntarily agrees to all of the terms of this agreement, and
+is not waiving rights or claims under the Age Discrimination in Employment Act of 1967 which may arise after the execution of the Agreement.
+8. Limited Right to Revoke
+#PARTY B# may revoke this agreement by delivering notice to #PARTY A# within [seven] Business Days after the Effective Date.
+
+9. Effect of 280G and Parachute Payments
+9.1 Reduction For Compliance
+In the event that the benefits provided for in this agreement or otherwise payable to #PARTY B# constitute "parachute payments" within the meaning of Section 280G of the Code and but for this section "EFFECT OF 280G AND PARACHUTE PAYMENTS" would be subject to the excise tax imposed by Section 4999 of the Code, then #PARTY A# shall pay to #PARTY B# either:
+
+#PARTY B#'s benefits delivered in full, or
+#PARTY B#'s benefits delivered as to such lesser extent which would result in no portion of such benefits being subject to excise Tax under Section 4999 of the Code,
+whichever of the foregoing amounts, taking into account the applicable Federal, state and local income Taxes and the excise Tax imposed by Section 4999, results in the greatest amount of benefits paid to #PARTY B#, on an after-Tax basis and notwithstanding that all or some portion of such benefits may be taxable under Section 4999 of the Code.
+9.2 Process for Reduction
+Reduce Non-Cash Amounts First. If a reduction in amounts to be paid must be made, any non-cash amounts will be reduced (or eliminated) before any cash amounts.
+Determine Parachute Value. In the event any reduction of benefits is required under this paragraph, the parachute value of all such payments and benefits for purposes of Section 280G and Section 4999 of the Code shall be determined by the parties' independent public accounting firm.
+10. Indemnification
+#PARTY A# shall indemnify #PARTY B# from any and all losses, expenses, claims, damages and Liabilities #PARTY B# incurs as a result of #PARTY B#'s employment with #PARTY A#, in accordance with and subject to the terms of any indemnification agreement in effect between the parties and #PARTY A#'s articles of incorporation, bylaws and other governing instruments, as well as any D&O insurance policy maintained by #PARTY A#.
+
+11. Governing Law
+This agreement, and all matters arising out of or relating to this agreement, including tort and statutory claims, shall be governed by the Laws of the state of #STATE#, without regard to its conflicts of Laws provisions.
+
+12. Notices
+12.1 Writing; Permitted Delivery Methods
+Each party giving or making any notice, request, demand or other communication (each, a "Notice") pursuant to this agreement shall:
+
+give the Notice in writing,
+cause the Notice to be signed by an authorized representative of the party giving or making the Notice, and
+use one of the following methods of delivery, each of which for purposes of this agreement is a writing:
+Personal delivery,
+Registered or Certified Mail (in each case, return receipt requested and postage prepaid),
+Nationally recognized overnight courier (with all fees prepaid), or
+Email.
+12.2 Addresses
+A Notice shall be delivered to the following addresses:
+
+If to #PARTY A#:
+#PARTY A NAME#
+Attn: #PARTY A REPRESENTATIVE#
+Address: #PARTY A ADDRESS#
+Email: #PARTY A EMAIL#
+
+If to #PARTY B#:
+#PARTY B NAME#
+Attn: #PARTY B REPRESENTATIVE#
+Address: #PARTY B ADDRESS#
+Email: #PARTY B EMAIL#
+
+12.3 Effectiveness of Notices
+Except as provided elsewhere in this agreement, a Notice is effective only if:
+
+the party giving the Notice has complied with paragraphs "WRITING; PERMITTED DELIVERY METHODS" and "ADDRESSES", and
+the recipient has received the Notice.
+13. Counterparts
+This agreement may be executed in counterparts, each of which shall be deemed an original, but all of which together shall constitute one and the same instrument.
+
+14. Entire Agreement
+This agreement constitutes the entire agreement of the parties regarding the subject matter of this agreement, and supersedes all prior and contemporaneous understandings, agreements, representations, and warranties, whether written or oral, regarding such subject matter.
+

@@ -1,0 +1,58 @@
+Title: Product Sales Agreement
+Parties Involved:
+
+Seller: [Company Name]
+Buyer: [Buyer Name or Company Name]
+1. Definitions:
+
+Products: The goods or products being sold under this Agreement.
+Price: The total amount payable by the Buyer to the Seller for the Products.
+2. Terms of Sale:
+
+Order: The Buyer agrees to purchase and the Seller agrees to sell the Products as specified in each order placed by the Buyer.
+Delivery: The Seller shall deliver the Products to the Buyer's specified location as per the delivery terms agreed upon (e.g., Incoterms 2020).
+Title and Risk: Title to the Products shall pass to the Buyer upon delivery, and risk of loss or damage shall pass to the Buyer upon delivery.
+3. Product Specifications:
+
+Description: Detailed description of the Products, including specifications, quantities, quality standards, and any applicable warranties.
+4. Price and Payment Terms:
+
+Price: The total price for the Products shall be [amount].
+Payment Terms: Payment shall be made [specify payment terms, e.g., within 30 days from the date of invoice].
+5. Delivery Terms:
+
+Delivery Date: The Seller shall deliver the Products by [specific date or timeframe].
+Shipping and Handling: Any shipping and handling charges shall be [paid by Buyer/paid by Seller] as per the agreed terms.
+6. Inspection and Acceptance:
+
+Inspection: The Buyer shall inspect the Products upon delivery. Acceptance of the Products shall occur upon [specify acceptance criteria, e.g., satisfactory inspection].
+7. Warranties and Remedies:
+
+Seller's Warranty: The Seller warrants that the Products shall conform to the specifications and be free from defects in material and workmanship.
+Remedies: In the event of non-conforming Products, the Buyer's sole remedy shall be [replacement/refund/repair] as determined by the Seller.
+8. Indemnification:
+
+Indemnity: Each party agrees to indemnify and hold harmless the other party from any claims arising out of a breach of this Agreement.
+9. Limitation of Liability:
+
+Liability Limitation: Neither party shall be liable for any consequential, incidental, indirect, or punitive damages arising out of or related to this Agreement.
+10. Governing Law and Dispute Resolution:
+
+Governing Law: This Agreement shall be governed by and construed in accordance with the laws of [state/country].
+Dispute Resolution: Any disputes arising out of or relating to this Agreement shall be resolved through [arbitration/mediation/litigation] in [city, state/country] under the rules of [specified arbitration/mediation authority].
+11. Miscellaneous:
+
+Entire Agreement: This Agreement constitutes the entire agreement between the parties regarding the sale of the Products.
+Amendment: Any amendment to this Agreement must be in writing and signed by both parties.
+Severability: If any provision of this Agreement is found to be invalid or unenforceable, the remaining provisions shall remain in full force and effect.
+12. Signatures:
+
+In Witness Whereof, the parties hereto have executed this Product Sales Agreement as of the Effective Date.
+
+Seller: [Signature]
+[Printed Name and Title]
+[Company Name]
+
+Buyer: [Signature]
+[Printed Name and Title]
+[Company Name]

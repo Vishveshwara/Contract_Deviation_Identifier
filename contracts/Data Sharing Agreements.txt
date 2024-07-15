@@ -1,0 +1,233 @@
+Data Sharing Agreement
+This agreement is entered into as of the last date signed by the parties (the "Effective Date") between #PARTY A NAME#, [whose principal place of residence is at / a #PARTY A JURISDICTION# corporation with its principal place of business at #PARTY A ADDRESS#] (the "#PARTY A#") and #PARTY B NAME#, [whose principal place of residence is at / a #PARTY B JURISDICTION# corporation with its principal place of business at #PARTY B ADDRESS#] (the "#PARTY B#").
+
+The parties agree as follows (the capitalized terms used in this agreement, in addition to those above, being defined in section "DEFINITIONS").
+
+1	Purpose of Data Sharing
+The parties are entering into this agreement, and #PARTY A# is granting #PARTY B# access to the Data (defined in section "DESCRIPTION OF DATA"), for the purpose of #INSERT SHORT DESCRIPTION OF PURPOSE OF THE DATA USE# (the "Purpose").
+
+2	Description of Data
+"Data" includes #DESCRIPTION OF THE DATA#, further described in #ATTACHMENT#, attached to this agreement.
+
+3	License Grant to Use Data
+#PARTY A# hereby grants to #PARTY B# a limited, non-exclusive, non-transferable, and revocable license to access, copy, and use the Data (the "#DELIVERABLES#").
+
+4	#PARTY B#'s Use of Data
+4.1	Purpose
+#PARTY B# shall use or disclose the Data only in furtherance of the Project or as required by Law.
+
+4.2	Standard of Care
+#PARTY B# shall exercise at least the same degree of care as it uses with its own data and Confidential Information, but in no event less than reasonable care, to protect the Data from misuse and unauthorized access or disclosure.
+
+4.3	Safeguards Around Data
+#PARTY B# shall use appropriate safeguards to protect the Data from misuse and unauthorized access or disclosure, including
+1.	maintaining adequate physical controls and password protections for any server or system on which the Data is stored,
+2.	ensuring that Data is not stored on any mobile device (for example, a laptop or smartphone) or transmitted electronically unless encrypted, and
+3.	taking any other measures reasonably necessary to prevent any use or disclosure of the Data other than as allowed under this agreement.
+
+4.4	Personal Information
+#PARTY B# will not attempt to identify any Person whose information is contained in any Data or attempt to contact those Persons.
+
+4.5	Permitted Disclosure
+#PARTY B# may disclose the Data only
+1.	to the extent necessary, and
+2.	to its officers, directors, employees, consultants, and representatives on a need-to-know basis.
+
+4.6	Required Disclosure
+If #PARTY B# is compelled by Law to disclose any Data, #PARTY B# shall notify #PARTY A# before disclosing the compelled Data.
+
+4.7	Unauthorized Disclosure
+1.	Report. Within [three] days of #PARTY B# becoming aware of any unauthorized use or disclosure of the Data, #PARTY B# shall promptly report that unauthorized use or disclosure to #PARTY A#.
+2.	Cooperation and Mitigation. #PARTY B# shall cooperate with any remediation that #PARTY A#, in its discretion, determines is necessary to
+a.	address any applicable reporting requirements, and
+b.	mitigate any effects of such unauthorized use or disclosure of the Data, including measures necessary to restore goodwill with stakeholders, including research subjects, collaborators, governmental authorities, and the public.
+
+
+4.8	Agents and Subcontractors
+#PARTY B# shall ensure that any agents, including subcontractors, to whom it provides the Data agree to the same restrictions and conditions listed in this agreement.
+
+4.9	No Modification of Data
+#PARTY B# shall not copy, decompile, modify, reverse engineer, or create derivative works out of any of the Data.
+
+5	Term
+This agreement will commence on the Effective Date and continue as long as #PARTY B# retains the Data, unless terminated earlier (the "Term").
+
+6	Representations
+6.1	Mutual Representations
+1.	No Restriction. Neither party is under any restriction or obligation that could affect its performance of its obligations under this agreement. 
+2.	No Violation, Breach, or Conflict. Neither party's execution, delivery, and performance of this agreement and the other documents to which it is a party, and the consummation of the transactions contemplated in this agreement, do or will result in its violation or breach of any
+a.	applicable Law or Order, or
+b.	[except as listed in it's Disclosure Schedule], require the consent of any Person, or conflict with, result in a violation or breach of, constitute a default under, or result in the acceleration of any material contract].
+
+
+6.2	#PARTY A#'s Representations
+1.	Ownership. #PARTY A# has the [exclusive] right to grant #PARTY A#'s use of the Data.
+2.	No Prior Grant or Transfer. #PARTY A# has not
+a.	granted and is not obligated to grant any license to any third party that would conflict with the license grant under section [LICENSE GRANT TO USE DATA], or
+b.	assigned or exclusively licensed, and is not obligated to assign or exclusively license, use of the Data to any third party that would conflict with the license grant under section "LICENSE GRANT TO USE DATA".
+
+
+7	No Warranty
+7.1	Provided "As Is"
+The Data is provided "as is."
+
+7.2	No Warranty of Accuracy or Completeness
+#PARTY A# does not make any warranty as to the accuracy or completeness of the Data.
+
+8	Confidentiality Obligations
+The parties shall continue to be bound by the terms of the non-disclosure agreement between the parties, dated #DATE# and attached to this agreement on #ATTACHMENT#.
+
+9	Intellectual Property Ownership
+9.1	No License to Existing Intellectual Property
+Except for any Intellectual Property rights included in the #DELIVERABLES# to use Data, the parties hereby acknowledge that this agreement does not constitute a grant by either party to the other of any license or right to either party's Intellectual Property existing as of the Effective Date.
+
+9.2	Ownership of Developed Intellectual Property
+If either party develops any new Intellectual Property in connection with this, the parties shall enter into a separate definitive agreement regarding the ownership of that new Intellectual Property. 
+
+10	Publications
+10.1	Copies of Proposed Publications
+#PARTY B# shall provide #PARTY A# with copies of any proposed publication or presentation at least [three] months in advance of the submission of the proposed publication or presentation to a journal, editor, or other third party.
+
+10.2	Review Period
+#PARTY A# will have [three] months after receipt of the materials to object to the proposed presentation or publication, because there is patentable or potentially patentable subject matter that needs protection.
+
+10.3	#PARTY A#'s Objection
+If #PARTY A# does makes an objection, #PARTY B# shall refrain from publishing or presenting the materials for [three] months from date of its receipt of #PARTY A#’s objection.
+
+10.4	No Response from #PARTY A#
+If #PARTY A# does not respond to #PARTY B#’s submission of materials for its review for [three] months, #PARTY B# may proceed to publish or present these materials.
+
+10.5	#PARTY A# Information
+#PARTY B# will not, without #PARTY A#’s prior written consent, publish or present any information that #PARTY A# has supplied to #PARTY B# in connection with the #DELIVERABLES#.
+
+10.6	Publication after End of Research
+#PARTY B# may publish or present any material relating to the #DELIVERABLES# [six] months after the date of submission of the final report referred to in section "RESEARCH WORK" or the date of termination of this agreement, as applicable.
+
+11	Use of Name
+Neither party will use the other party's name, logos, trademarks, or other marks without that party's written consent.
+
+12	Termination on Notice
+#PARTY A# may terminate this agreement for any reason on #TERMINATION NOTICE PERIOD# Business Days’ notice to #PARTY B#.
+
+13	Return or Destruction of Data and Property
+On the expiration or termination of this agreement, or on #PARTY A#'s request, #PARTY B# shall promptly
+1.	return the Data and any other property, information, and documents, including Confidential Information, provided by #PARTY A#,
+2.	destroy all copies it made of Data and any other property, information, and documents, including Confidential Information, and
+3.	if requested by #PARTY A#, deliver to #PARTY A# a certificate confirming #PARTY B#'s compliance with the return or destruction obligation under this section.
+
+14	Indemnification
+14.1	Indemnification by #PARTY B#
+#PARTY B# (as an indemnifying party) shall indemnify #PARTY A# (as an indemnified party) against all losses and expenses arising out of any proceeding
+1.	brought by either a third party or #PARTY A#, and
+2.	arising out of #PARTY B#'s breach of its obligations, representations, warranties, or covenants under this agreement.
+
+14.2	Mutual Indemnification
+Each party (as an indemnifying party) shall indemnify the other (as an indemnified party) against all losses arising out of any proceeding
+1.	brought by either a third party or an indemnified party, and
+2.	arising out of the indemnifying party's willful misconduct or gross negligence.
+
+14.3	Notice and Failure to Notify
+1.	Notice Requirement. Before bringing a claim for indemnification, the indemnified party shall
+a.	notify the indemnifying party of the indemnifiable proceeding, and
+b.	deliver to the indemnifying party all legal pleadings and other documents reasonably necessary to indemnify or defend the indemnifiable proceeding.
+2.	Failure to Notify. If the indemnified party fails to notify the indemnifying party of the indemnifiable proceeding, the indemnifying will be relieved of its indemnification obligations to the extent it was prejudiced by the indemnified party's failure.
+
+14.4	Exclusive Remedy
+The parties' right to indemnification is the exclusive remedy available in connection with the indemnifiable proceedings described in this section "INDEMNIFICATION".
+
+15	Definitions 
+"Business Day" means a day other than a Saturday, a Sunday, or any other day on which the principal banks located in New York, New York are not open for business. 
+
+"Data" is defined in section "DESCRIPTION OF DATA".
+
+"Disclosure Schedule" means the schedules delivered, before the execution of this agreement, by each party to the other party which list, among other things, items the disclosure of which is necessary or appropriate either in response to an express disclosure requirement contained in a provision of this agreement or as an exception to one or more of the representations or warranties made by the party, or to one or more of the covenants of the party. 
+
+"Effective Date" is defined in the introduction to this agreement.
+
+"Intellectual Property" means any and all of the following in any jurisdiction throughout the world 
+1.	 trademarks and service marks, including all applications and registrations, and the goodwill connected with the use of and symbolized by the foregoing, 
+2.	 copyrights, including all applications and registrations related to the foregoing, 
+3.	 trade secrets and confidential know-how, 
+4.	 patents and patent applications, 
+5.	 websites and internet domain name registrations, and 
+6.	 other intellectual property and related proprietary rights, interests and protections (including all rights to sue and recover and retain damages, costs and attorneys' fees for past, present, and future infringement, and any other rights relating to any of the foregoing).
+
+"Law" means 
+1.	 any law (including the common law), statute, bylaw, rule, regulation, order, ordinance, treaty, decree, judgment, and 
+2.	 any official directive, protocol, code, guideline, notice, approval, order, policy, or other requirement of any Governmental Authority having the force of law.
+
+"Order" 
+
+"Person" includes 
+1.	 any corporation, company, limited liability company, partnership, Governmental Authority, joint venture, fund, trust, association, syndicate, organization, or other entity or group of persons, whether incorporated or not, and 
+2.	 any individual.
+
+"License Grant" is defined in section "LICENSE GRANT TO USE DATA".
+
+"Purpose" is defined in section "PURPOSE OF DATA SHARING".
+
+"Term" is defined in section "TERM".
+
+16	Entire Agreement
+The parties intend that this agreement, together with all attachments, schedules, exhibits, and other documents that both are referenced in this agreement and refer to this agreement,
+1.	represent the final expression of the parties' intent relating to the subject matter of this agreement,
+2.	 contain all the terms the parties agreed to relating to the subject matter, and
+3.	replace all of the parties' previous discussions, understandings, and agreements relating to the subject matter of this agreement.
+
+17	Assignment
+Neither party may assign this agreement or any of their rights or obligations under this agreement without the other party's written consent.
+
+18	Notices
+1.	Method of Notice. The parties shall give all notices and communications between the parties in writing by (i) personal delivery, (ii) a nationally-recognized, next-day courier service, (iii) first-class registered or certified mail, postage prepaid[, (iv) fax][, or (v) electronic mail] to the party's address specified in this agreement, or to the address that a party has notified to be that party's address for the purposes of this section.
+2.	Receipt of Notice. A notice given under this agreement will be effective on
+a.	the other party's receipt of it, or
+b.	if mailed, the earlier of the other party's receipt of it and the [fifth] business day after mailing it. 
+
+
+19	Governing Law
+This agreement shall be governed, construed, and enforced in accordance with the laws of the State of #GOVERNING LAW STATE#, without regard to its conflict of laws rules.
+
+20	Interpretation
+1.	References to Specific Terms
+a.	Accounting Principles. Unless otherwise specified, where the character or amount of any asset or liability, item of revenue, or expense is required to be determined, or any consolidation or other accounting computation is required to be made, that determination or calculation will be made in accordance with the generally accepted accounting principles defined by the professional accounting industry in effect in the United States ("GAAP").
+b.	Currency. Unless otherwise specified, all dollar amounts expressed in this agreement refer to American currency.
+c.	"Including." Where this agreement uses the word "including," it means "including without limitation," and where it uses the word "includes," it means "includes without limitation."
+d.	"Knowledge." Where any representation, warranty, or other statement in this agreement, or in any other document entered into or delivered under this agreement,] is expressed by a party to be "to its knowledge," or is otherwise expressed to be limited in scope to facts or matters known to the party or of which the party is aware, it means:
+i.	the then-current, actual knowledge of the directors and officers of that party, and
+ii.	the knowledge that would or should have come to the attention of any of them had they investigated the facts related to that statement and made reasonable inquiries of other individuals reasonably likely to have knowledge of facts related to that statement.
+e.	Statutes, etc. Unless specified otherwise, any reference in this agreement to a statute includes the rules, regulations, and policies made under that statute and any provision that amends, supplements, supersedes, or replaces that statute or those rules or policies.
+2.	Number and Gender. Unless the context requires otherwise, words importing the singular number include the plural and vice versa; words importing gender include all genders.
+3.	Headings. The headings used in this agreement and its division into sections, schedules, exhibits, appendices, and other subdivisions do not affect its interpretation.
+4.	Internal References. References in this agreement to sections and other subdivisions are to those parts of this agreement.
+5.	Calculation of Time. In this agreement, a period of days begins on the first day after the event that began the period and ends at 5:00 p.m. #TIME ZONE# Time on the last day of the period. If any period of time is to expire, or any action or event is to occur, on a day that is not a Business Day, the period expires, or the action or event is considered to occur, at 5:00 p.m. #TIME ZONE# Time on the next Business Day.
+6.	Construction of Terms. The parties have each participated in settling the terms of this agreement. Any rule of legal interpretation to the effect that any ambiguity is to be resolved against the drafting party will not apply in interpreting this agreement.
+7.	Conflict of Terms. If there is any inconsistency between the terms of this agreement and those in any schedule to this agreement or in any document entered into under this agreement, the terms of [this agreement/#SPECIFIED AGREEMENTS#] will prevail. The parties shall take all necessary steps to conform the inconsistent terms to the terms of [this agreement / #SPECIFIED AGREEMENTS#.
+
+21	Severability
+If any part of this agreement is declared unenforceable or invalid, the remainder will continue to be valid and enforceable.
+
+22	Waiver
+1.	Affirmative Waivers. Neither party's failure or neglect to enforce any rights under this agreement will be deemed to be a waiver of that party's rights.
+2.	Written Waivers. A waiver or extension is only effective if it is in writing and signed by the party granting it.
+3.	No General Waivers. A party's failure or neglect to enforce any of its rights under this agreement will not be deemed to be a waiver of that or any other of its rights.
+4.	No Course of Dealing. No single or partial exercise of any right or remedy will preclude any other or further exercise of any right or remedy.
+
+23	No Third-Party Beneficiaries
+Unless explicitly stated otherwise elsewhere in this agreement, no Person other than the parties themselves has any rights or remedies under this agreement.
+
+This agreement has been signed by the parties.
+#PARTY A NAME#
+#PARTY B NAME#
+Full Name:
+Title:
+Date:
+Signature:
+
+	Full Name:
+Title:
+Date:
+Signature:
+
+
+
+

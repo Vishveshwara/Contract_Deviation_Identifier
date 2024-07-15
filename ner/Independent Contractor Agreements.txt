@@ -1,0 +1,44 @@
+Independent Contractor Agreement
+
+Parties Involved:
+Client: [Client's Name or Company Name], a [Client's State/Country of Registration] corporation/sole proprietorship/partnership/etc., located at [Client's Address].
+Contractor: [Contractor's Name or Business Name], a [Contractor's State/Country of Registration] corporation/sole proprietorship/partnership/etc., located at [Contractor's Address].
+Effective Date: [Date]
+
+Services:
+2.1 Scope of Work:
+The Contractor agrees to provide the following services (the "Services"): [Description of services to be provided by Contractor]. This may include specific deliverables, milestones, and any other relevant details.
+2.2 Deliverables:
+The Contractor shall deliver the following specific deliverables (the "Deliverables"): [List specific deliverables or milestones].
+2.3 Schedule:
+The Services shall be completed within [Project Timeline or Deadline], unless extended by mutual written agreement.
+
+Compensation:
+3.1 Payment Terms:
+The Client shall pay the Contractor [Payment Amount or Rate] for the Services rendered. Payment shall be made [Payment Schedule, e.g., upon completion of milestones, monthly, etc.].
+3.2 Invoices:
+The Contractor shall submit invoices detailing the Services rendered and expenses incurred, if any. Invoices must be submitted [Invoice Submission Frequency] and shall be paid within [Payment Terms, e.g., 30 days] of receipt.
+
+Contractual Terms:
+4.1 Independent Contractor Status:
+The Contractor acknowledges that they are an independent contractor and not an employee of the Client. The Contractor has the right to control the means and methods of performing the Services.
+4.2 Intellectual Property Rights:
+Any intellectual property created by the Contractor in connection with the Services shall belong exclusively to the Client. The Contractor agrees to assign all rights, title, and interest in such intellectual property to the Client.
+4.3 Confidentiality:
+The Contractor shall not disclose any confidential or proprietary information belonging to the Client, both during and after the term of this Agreement.
+4.4 Termination:
+Either party may terminate this Agreement upon [Termination Notice Period, e.g., 30 days] written notice to the other party for any reason. The Client may terminate this Agreement immediately for cause, including but not limited to, material breach of contract or failure to perform Services.
+4.5 Indemnification:
+The Contractor agrees to indemnify and hold harmless the Client from any claims, liabilities, damages, losses, costs, and expenses arising from or related to the Contractor's performance or breach of this Agreement.
+4.6 Applicable Law and Jurisdiction:
+This Agreement shall be governed by and construed in accordance with the laws of [State/Country]. Any dispute arising out of or in connection with this Agreement shall be resolved in the courts of [City, State/Country].
+4.7 Entire Agreement:
+This Agreement constitutes the entire agreement between the parties concerning the subject matter hereof and supersedes all prior agreements, negotiations, representations, and understandings.
+
+Miscellaneous: Miscellaneous: [Additional terms such as amendment, assignment, and entire agreement clause]
+5.1 Amendments:
+Any amendments or modifications to this Agreement must be made in writing and signed by both parties.
+5.2 Assignment:
+Neither party may assign its rights or obligations under this Agreement without the prior written consent of the other party.
+5.3 Severability:
+If any provision of this Agreement is held invalid or unenforceable, the remaining provisions shall continue in full force and effect.

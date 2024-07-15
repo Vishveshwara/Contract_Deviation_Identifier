@@ -1,0 +1,135 @@
+Key Entity Template for Severance Agreement
+
+Parties:
+
+#EMPLOYER_NAME#:
+
+Definition: The employer offering the severance agreement.
+
+Details:
+
+Legal Entity Type: [Corporation, LLC, etc.]
+Principal Place of Business: [Address]
+Contact Information: [Email, Phone]
+Represented by: [Name, Title]
+Example: "#EMPLOYER_NAME#, a Delaware corporation with its principal place of business at 1234 Main Street, New York, NY. Contact email: employer@example.com, Phone: +1-XXX-XXX-XXXX. Represented by: [Name], [Title]."
+
+#EMPLOYEE_NAME#:
+
+Definition: The employee entering into the severance agreement.
+
+Details:
+
+Residence Address: [Address]
+Contact Information: [Email, Phone]
+Social Security Number: [Number]
+Employment Start Date: [Date]
+Employment End Date: [Date]
+Example: "#EMPLOYEE_NAME#, residing at 5678 Elm Street, New York, NY. Contact email: employee@example.com, Phone: +1-YYY-YYY-YYYY. Social Security Number: XXX-XX-XXXX. Employment Start Date: [Date]. Employment End Date: [Date]."
+
+Key Terms:
+
+Termination Date:
+
+Definition: The effective date on which the employment relationship ends.
+Example: "The termination of #EMPLOYEE_NAME#'s employment with #EMPLOYER_NAME# shall be effective as of [Date], as mutually agreed upon."
+Severance Payment:
+
+Definition: The lump-sum payment made to the employee upon termination.
+
+Details:
+
+Amount: [Dollar Amount]
+Payment Schedule: [Immediate lump sum/payment over period]
+Tax Treatment: [Tax deductions and responsibilities]
+Example: "#EMPLOYER_NAME# agrees to pay #EMPLOYEE_NAME# a severance amount of $[Amount], less applicable taxes and withholdings, in [number of installments, if applicable]."
+
+Health Insurance Continuation:
+
+Definition: The period and conditions under which health insurance benefits will continue post-termination.
+
+Details:
+
+COBRA Coverage: [Duration and cost details]
+Alternative Benefits: [If applicable, details of alternative benefits]
+Example: "#EMPLOYER_NAME# agrees to continue #EMPLOYEE_NAME#'s health insurance coverage under COBRA for a period of [Months/Period], with costs borne by #EMPLOYER_NAME# during this period."
+
+Confidential Information:
+
+Definition: Non-disclosure obligations regarding confidential business information.
+
+Details:
+
+Scope: [Definition of confidential information]
+Duration: [Post-employment non-disclosure period]
+Exceptions: [Permitted disclosures under specific circumstances]
+Example: "#EMPLOYEE_NAME# agrees to maintain the confidentiality of all proprietary and confidential information of #EMPLOYER_NAME#, its clients, and affiliates for a period of [Years], except as required by law or with #EMPLOYER_NAME#'s prior written consent."
+
+Non-Compete Agreement:
+
+Definition: Restrictions on the employee's ability to work for competitors.
+
+Details:
+
+Geographic Scope: [Restricted area]
+Duration: [Post-employment non-compete period]
+Scope: [Specific activities restricted]
+Example: "#EMPLOYEE_NAME# agrees not to engage in any competitive activities or work for competitors of #EMPLOYER_NAME# within [Geographical Area] for a period of [Months/Years] following termination."
+
+Non-Solicitation of Employees and Clients:
+
+Definition: Prohibition against soliciting #EMPLOYER_NAME#'s employees and clients post-termination.
+
+Details:
+
+Duration: [Post-employment non-solicitation period]
+Scope: [Employees and clients covered]
+Example: "#EMPLOYEE_NAME# agrees not to solicit or induce #EMPLOYER_NAME#'s employees or clients for [Months/Years] after termination of employment."
+
+Return of Company Property:
+
+Definition: Requirement to return all company-owned property upon termination.
+
+Details:
+
+Items: [List of items to be returned]
+Timeline: [Deadline for return]
+Example: "#EMPLOYEE_NAME# agrees to promptly return all company property, including but not limited to laptops, mobile devices, access cards, and any confidential documents, upon termination."
+
+Cooperation Clause:
+
+Definition: Obligation to cooperate with #EMPLOYER_NAME# in any legal matters or investigations post-termination.
+
+Details:
+
+Scope: [Legal proceedings, investigations]
+Reimbursement: [Compensation for time and expenses]
+Example: "Following termination, #EMPLOYEE_NAME# shall cooperate fully with #EMPLOYER_NAME# in any legal or regulatory proceedings, including providing documents and testimony as required, with reasonable expenses reimbursed by #EMPLOYER_NAME#."
+
+Governing Law and Jurisdiction:
+
+Definition: The jurisdiction whose laws will govern the interpretation and enforcement of the agreement.
+Example: "This agreement shall be governed by and construed in accordance with the laws of the State of [State], without regard to its conflict of law principles."
+Severability Clause:
+
+Definition: Ensures that if any provision of the agreement is found invalid or unenforceable, the remainder of the agreement remains in full force and effect.
+Example: "If any provision of this agreement is held to be invalid or unenforceable, the remaining provisions shall continue to be valid and enforceable."
+Waiver of Jury Trial:
+
+Definition: Agreement to waive the right to a jury trial in any disputes arising from the severance agreement.
+Example: "Both parties hereby waive any right to a trial by jury in any litigation arising out of or relating to this agreement."
+Signature Blocks:
+
+#EMPLOYER_NAME#
+
+Signature: ______________________
+Printed Name: ______________________
+Title: ______________________
+Date: ______________________
+Contact Information: [Email, Phone]
+#EMPLOYEE_NAME#
+
+Signature: ______________________
+Printed Name: ______________________
+Date: ______________________
+Contact Information: [Email, Phone]

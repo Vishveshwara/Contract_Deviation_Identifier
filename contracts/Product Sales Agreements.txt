@@ -1,0 +1,184 @@
+Product Sales Agreement
+This agreement is entered into as of the last date signed by the parties (the "Effective Date") between #PARTY A NAME#, [whose principal place of residence is at / a #PARTY A JURISDICTION# corporation with its principal place of business at #PARTY A ADDRESS#] (the "#PARTY A#") and #PARTY B NAME#, [whose principal place of residence is at / a #PARTY B JURISDICTION# corporation with its principal place of business at #PARTY B ADDRESS#] (the "#PARTY B#").
+
+The capitalized terms used in this agreement, in addition to those above, are defined in section "DEFINITIONS".
+
+1. Orders
+1.1 Use of Standard Form
+#PARTY B# shall submit purchase orders for the Products on #PARTY A#'s standard form ("Purchase Orders").
+
+Contents of Order. #PARTY B# shall include in each Purchase Order:
+
+each Product it is ordering, identified by model or part number,
+the amount of each Product it is ordering,
+the unit price of each Product it is ordering,
+the location for delivery, and
+the delivery date, allowing reasonable time for #PARTY A# to receive, review, process the Purchase Order, and ship the Products (the "Delivery Date").
+#PARTY A#'s Acceptance or Rejection.
+a. Notice of Acceptance or Rejection. Within [three] Business Days' of receiving #PARTY B#'s Purchase Order, #PARTY A# shall notify #PARTY B# whether it is accepting or rejecting the Purchase Order.
+b. Acceptance and Deemed Acceptance of Orders. The parties will be bound by the Purchase Order:
+i. when #PARTY A# gives #PARTY B# notice of its acceptance, or
+ii. if #PARTY A# fails to notify #PARTY B# of its acceptance or rejection within [three] Business Days' of receiving #PARTY B#'s Purchase Order.
+c. Waiver of Objections. #PARTY A# will be deemed to have waived any objection to the terms of a Purchase Order upon delivery of the Products detailed in the Purchase Order.
+d. Reasons for Rejection. #PARTY A# shall include specific grounds for rejection in its notice of rejection.
+e. Modification. #PARTY A# may propose a modification to a Purchase Order by including a modified Purchase Order in its notice to #PARTY B#, for #PARTY B# to accept or reject according to the acceptance and rejection procedures under this section.
+
+2. Delivery of Products
+2.1 Delivery
+#PARTY A# shall, at no expense to #PARTY B#, deliver each order of Products to #PARTY B#:
+
+on the Delivery Date and to the location specified in the applicable Purchase Order,
+using any delivery method the parties agree to in writing.
+2.2 Risk of Loss Shifts on Delivery
+#PARTY A# will remain liable for any damages, losses, or defects to the Products until the Products are delivered to #PARTY B#, after which #PARTY B# will be solely liable.
+
+3. Price
+#PARTY B# shall pay #PARTY A#'s list price for each Product, as listed [on #PARTY A#'s website at #URL# / in the #ATTACHMENT#, attached to this agreement].
+
+4. Payment of List Prices
+4.1 Invoice Delivery
+#PARTY A# shall invoice #PARTY B# for each delivery of Products within [seven] Business Days' after #PARTY B# accepts the delivery.
+
+4.2 Invoice Procedure and Requirements
+#PARTY A# shall:
+
+make each invoice to #PARTY B# in writing, including:
+a. an invoice date and number,
+b. the total amount due, and
+c. the calculation of the total amount, and
+send each invoice to the recipient #PARTY A# specifies directly below:
+Name:
+Title:
+Mailing Address:
+Email Address:
+4.3 Payment
+#PARTY B# shall pay each invoice:
+
+within #PAYMENT DEADLINE# Business Days' after receiving each invoice,
+in immediately available funds,
+to the account #PARTY A# specifies directly below:
+Account Number:
+Routing Number:
+5. Taxes
+Payment amounts under this agreement do not include taxes, and #PARTY A# shall pay all taxes applicable to payments between the parties under this agreement.
+
+6. Interest on Late Payments
+Any amount not paid when due will bear interest from the due date until paid at a rate equal to [1]% per month ([12.68]% annually) or the maximum allowed by law, whichever is less.
+
+7. Term
+This agreement will commence on the Effective Date and will continue for #TERM PERIOD# months/years unless terminated earlier (the "Term").
+
+8. Limited Warranty
+8.1 Warranty
+#PARTY A# warrants that the Products:
+
+will be free from material defects,
+are made with workmanlike quality, and
+will conform, within normal commercial tolerances, to the applicable specifications.
+8.2 Replacement Products
+Subject to paragraphs "NOTICE REQUIREMENT" and "EXCLUSIONS" directly below, #PARTY B#'s sole remedy for breach of this limited warranty will be #PARTY A# providing #PARTY B# with a replacement Product, at #PARTY A#'s sole expense.
+
+8.3 Notice Requirement
+#PARTY A# will only be required to replace Products under paragraph "REPLACEMENT PRODUCTS" if it receives written notice from #PARTY B# of such defect or nonconformity within 90 days after delivery of the Products.
+
+8.4 Exclusions
+This warranty does not extend to any Product #PARTY B# abuses, neglects, or misuses according to the applicable documentation or specifications, or to any Product #PARTY B# has had repaired or altered by a person other than #PARTY A#.
+
+9. Intellectual Property Ownership
+Subject to any license explicitly granted under this agreement necessary for #PARTY B#'s use of a Product that incorporates software, no transfer of any right, interest, or ownership of any Intellectual Property will occur under this agreement.
+
+10. Representations
+10.1 Mutual Representations
+Existence. The parties are corporations incorporated and existing under the laws of the jurisdictions of their respective incorporation.
+Authority and Capacity. The parties have the authority and capacity to enter into this agreement.
+Execution and Delivery. The parties have duly executed and delivered this agreement.
+Enforceability. This agreement constitutes a legal, valid, and binding obligation, enforceable against the parties according to its terms.
+No Conflicts. Neither party is under any restriction or obligation that the party could reasonably expect might affect the party's performance of its obligations under this agreement.
+No Breach. Neither party’s execution, delivery, or performance of its obligations under this agreement will breach or result in a default under:
+a. its articles, bylaws, or any unanimous shareholders agreement,
+b. any law to which it is subject,
+c. any judgment, order, or decree of any Governmental Authority to which it is subject, or
+d. any agreement to which it is a party or by which it is bound.
+Permits, Consents, and Other Authorizations. Each party holds all permits and other authorizations necessary to:
+a. own, lease, and operate its properties, and
+b. conduct its business as it is now carried on.
+No Disputes or Proceedings. [Except as disclosed in the parties' respective Disclosure Schedules] There are no legal proceedings pending, threatened, or foreseeable against either party, which would affect that party’s ability to complete its obligations under this agreement.
+No Bankruptcy. Neither party has taken or authorized any proceedings related to that party’s bankruptcy, insolvency, liquidation, dissolution, or winding up.
+10.2 #PARTY A#'s Representations
+Ownership. [Except as listed in #PARTY A#'s Disclosure Schedule] #PARTY A# is the sole owner of the Products, free of any claims by a third party and free of any encumbrance.
+Legal Right. [Except as listed in #PARTY A#'s Disclosure Schedule] #PARTY A# has the [exclusive] right to transfer the Products.
+No Prior Transfer. [Except as listed in #PARTY A#'s Disclosure Schedule] #PARTY A# has not sold, transferred, or assigned, and is not obligated to sell, transfer, or assign, the Products to any other person or entity.
+10.3 #PARTY B#'s Representations
+Evaluation. #PARTY B# has evaluated and is satisfied with the Products.
+Own Use. #PARTY B# will use the Products solely for its own use and not for resale or distribution to a third party, unless otherwise agreed in writing by the parties.
+11. Termination
+11.1 Termination for Material Breach
+If a party (the "Breaching Party") breaches a material obligation under this agreement, the other party (the "Non-breaching Party") may terminate this agreement immediately, by giving notice to the Breaching Party, if the Breaching Party fails to cure that breach within [five] Business Days after receiving notice of the breach from the Non-breaching Party.
+
+11.2 Termination for Insolvency
+This agreement will terminate immediately when either party becomes insolvent, makes an assignment for the benefit of creditors, or becomes subject to control of a trustee, receiver, or similar authority.
+
+12. Effect of Termination
+12.1 Outstanding Invoices
+On termination or expiration of this agreement, #PARTY B# shall immediately pay #PARTY A# all outstanding invoices.
+
+12.2 Survival
+Any provision of this agreement that imposes an obligation after termination or expiration of this agreement will survive the termination or expiration of this agreement.
+
+13. Limitation of Liability
+13.1 Cap on Liability
+#PARTY A#'s liability to #PARTY B# for damages arising out of or related to this agreement will not exceed the amount #PARTY B# paid to #PARTY A# under this agreement.
+
+13.2 Exclusion of Consequential Damages
+#PARTY A# will not be liable to #PARTY B# for any consequential, indirect, special, incidental, or punitive damages arising out of or related to this agreement.
+
+14. Definitions
+Capitalized terms used in this agreement have the meanings given to them in this section, unless otherwise specified.
+
+"Business Day" means a day other than a Saturday, Sunday, or a day when banks in #JURISDICTION# are generally closed for a holiday.
+"Governmental Authority" means any federal, state, municipal, or other governmental department, regulatory authority, commission, board, bureau, agency, or instrumentality.
+15. Miscellaneous
+15.1 Notice
+Notices under this agreement must be in writing and must be sent to the addresses listed above. They are effective when received.
+
+15.2 Assignment
+Neither party may assign this agreement without the other party's written consent. Any purported assignment in violation of this section will be void.
+
+15.3 Entire Agreement
+This agreement, including any schedules and exhibits, constitutes the entire agreement between the parties regarding its subject matter. It supersedes all prior agreements, negotiations, representations, and proposals, written or oral, relating to its subject matter.
+
+15.4 Amendments
+This agreement may only be amended by a written document signed by both parties.
+
+15.5 Governing Law
+This agreement will be governed, construed, and enforced in accordance with the laws of #JURISDICTION#, without regard to its conflict of laws rules.
+
+15.6 Dispute Resolution
+Any disputes arising out of or related to this agreement will be resolved through binding arbitration under the rules of the American Arbitration Association. The arbitration will take place in #ARBITRATION LOCATION#.
+
+15.7 Severability
+If any provision of this agreement is found to be invalid or unenforceable, the remaining provisions will remain in full force and effect.
+
+15.8 Waiver
+The failure of either party to enforce any right or provision of this agreement will not constitute a waiver of that right or provision.
+
+#PARTY A#
+
+By: ______________________
+
+Name: ___________________
+
+Title: ___________________
+
+Date: ____________________
+
+#PARTY B#
+
+By: ______________________
+
+Name: ___________________
+
+Title: ___________________
+
+Date: ____________________
+

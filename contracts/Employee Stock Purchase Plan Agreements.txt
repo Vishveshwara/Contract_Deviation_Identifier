@@ -1,0 +1,286 @@
+Employee Stock Purchase Plan
+This plan is entered into as of the last date signed by the parties (the "Effective Date") between #PARTY A NAME#, [whose principal place of residence is at / a #PARTY A JURISDICTION# corporation with its principal place of business at #PARTY A ADDRESS#] (the "#PARTY A#") to provide employees of the #PARTY A# [and employees (each "#PARTY B#") of related corporations designated by #PARTY A#] with an opportunity to purchase #PARTY A# common stock through offerings of options at a discount.
+The plan is as follows (the capitalized terms used in this plan, in addition to those above, are defined in section "DEFINITIONS").
+1	Purpose
+The "Purpose" of this [agreement / plan] is #DESCRIPTION OF PURPOSE/INTENT OF AGREEMENT#.
+2	Administration of Plan
+2.1	Administration by Committee
+ Subject to paragraph "DELEGATION OF AUTHORITY", the Committee shall administer this plan.
+2.2	Committee Procedures
+1.	Member Appointment. The Board may, on one or more occasions,
+a.	appoint additional members to the Committee,
+b.	substitute new members for then current members of the Committee, and
+c.	fill vacancies, however caused, in the Committee.
+2.	Selection of Chairman. The Committee shall select one of its members to be its chairman.
+3.	Meetings. The Committee may hold its meetings at time, place, and manner it deems advisable, including by telephone.
+4.	Majority Rule. The Committee shall make its determinations by a majority vote of its members.
+5.	Written Voting. The Committee may make its determinations by a written instrument signed by a majority of its members, with the same binding effect as if the vote was made orally.
+6.	Appointment of Secretary. The Committee may appoint a secretary.
+2.3	Committee's Authority
+The Committee is authorized to 
+1.	interpret this plan, 
+2.	adopt the rules, guidelines, and forms it deems appropriate to implement this plan, and
+3.	make all other policy decisions relating to the operation of this plan.
+2.4	Delegation of Authority
+1.	Delegation to Administrator. The Committee may delegate to the authority to administer this plan to an officer or Employee of #PARTY A# (the "Administrator").
+2.	Administrator's Authority. The Administrator shall administer this plan subject to the Committee's rules and interpretive determinations in connection with this plan.
+3.	Delegation Does Not Effect Administrator's Eligibility. The Committee's delegation will not make the Administrator, if otherwise an Eligible Employee, ineligible to participate in this plan.
+2.5	Compensation of Committee
+1.	No Additional Compensation. Unless otherwise determined by the Board, #PARTY A# will not be required to provide additional compensation to Committee members because of their status or services as Committee members.
+2.	Expenses Reimbursable. #PARTY A# shall pay all expenses in connection with the administration of this plan, including clerical, legal, and accounting fees.
+2.6	Indemnification and Limitation on Liability
+1.	No Liability. Members of the Board or Committee will not be liable for any action or determination
+a.	made in good faith, and
+b.	in connection with this plan or any option granted under it.
+2.	Indemnification. #PARTY A# shall indemnify each member of the Board and Committee to the extent permitted by Law, in connection with any claim, loss, damage, or expense (including counsel fees) arising out of Board and Committee members' responsibilities under this plan.
+3	Eligibility
+3.1	Eligible Employees
+1.	#PARTY A# Employees[, and employees of its Subsidiaries], will be eligible to participate in the Plan (each, an "Eligible Employee") if the Employee
+a.	has been employed by #PARTY A#[ or any of its Subsidiaries] for at least [three] months,
+b.	customarily works a minimum of [20] hours per week, and
+c.	does not own (as defined in section 424(d) of the Code), immediately after it is granted the right to purchase Shares under this plan, stock possessing [5]% or more of the total combined voting power or value of all classes of #PARTY A# stock[ or of a Subsidiary].
+3.2	Temporary Changes to Eligible Employee Definition
+1.	Permitted Changes to Definition. Before an Enrollment date, the Administrator may change the definition of Eligible Employee so that "Eligible Employee" will or will not include an Employee if he or she
+a.	has not completed at least [two] years of service since the Employee's last hire date (or a shorter period of time as the Administrator may determine),
+b.	customarily works not more than [20] hours per week (or a shorter period of time as the Administrator may determine),
+c.	customarily works not more than [five] months per calendar year (or a shorter period of time as the Administrator may determine), or
+d.	is a highly compensated employee under Section 414(q) of the Code with compensation above a certain level or is an officer or subject to the disclosure requirements of Section 16(a) of the Exchange Act, but only if the exclusion is applied in connection with each Offering in an identical manner to all highly compensated individuals of the Employer whose Employees are participating in that Offering.
+2.	Changes Are Temporary. Changing the definition of Eligible Employee under paragraph "PERMITTED CHANGES TO DEFINITION" will only effect the options to be granted on the next Enrollment Date.
+4	Participation
+4.1	Submit Subscription Agreement
+An Eligible Employee may participate in this plan by completing a subscription agreement authorizing payroll deductions, in substantially the form and manner of the #ATTACHMENT#, attached to this agreement (each one, a "Participant").
+4.2	 Beginning and Ending of Payroll Deductions
+Each Participant's payroll deductions to this plan will begin on the first payroll following the Enrollment Date and will end on the last payroll date in the Offering Period its authorization applies to.
+4.3	Changing Contribution Method
+Before each Exercise Date, #PARTY A# may change how Participants submit contributions to this plan by giving written notice of the changes to all Participants.
+5	Offering Periods
+5.1	Timing of Offering Periods
+This plan will be implemented by consecutive Offering Periods, each one commencing on the first Trading Day on or after [February 1 and August 1] each year, or on such other date as the Administrator will determine.
+5.2	Changes to Offering Periods
+The Administrator may change the duration of Offering Periods (including their start dates) for future Offerings without stockholder approval, if the change is announced before the scheduled beginning of the first Offering Period affected by the change.
+6	Payroll Deductions
+6.1	Timing of Payroll Deductions
+1.	Taken Each Pay Day. Payroll deductions will be made, automatically without action required by a Participant, on each pay day during the current Offering Period.
+2.	Payroll Deductions Commencement and Termination. A Participant's Payroll deductions will
+a.	commence on the first pay day following the Enrollment Date, and
+b.	end on the last pay day before the Exercise Date of the applicable Offering Period, unless the Participant terminates deductions earlier under sections "WITHDRAWAL" or "TERMINATION".
+6.2	Participant Elects Amount of Payroll Deductions
+When a Participant files its subscription agreement, it shall elect to have payroll deductions taken in
+1.	an amount less than [20]% of the Compensation that Participant receives on each pay day during the Offering Period, and
+2.	whole percentages only.
+6.3	Participant Accounts
+1.	Contributions Credited to Participant's Account. A Participant's Contributions will be credited to its account under this plan
+2.	No Additional Payments. A Participant may not make any additional payments into its account.
+6.4	Changes in Payroll Deductions
+1.	Discontinue Payroll Deductions by Withdrawal. A Participant may discontinue its participation in this plan under section "WITHDRAWAL".
+2.	No Changes to Deduction Rate During Offer Period. Subject to paragraph RECOMMENCE PAYROLL DEDUCTIONS], a Participant may neither increase nor decrease the rate of its payroll deductions during the Offering Period.
+6.5	Recommence Payroll Deductions
+1.	Section 423(b)(8) and Section 3(b) Compliance. If and to the extent necessary to comply with Section 423(b)(8) of the Code and section "ELIGIBILITY" of this agreement, a Participant's Contributions may be decreased to zero percent at any time during an Offering Period.
+2.	Recommence of Payroll Deductions. Subject to Section 423(b)(8) of the Code and section "ELIGIBILITY" of this agreement, Contributions will recommence at the rate the Participant originally elected effective as of the beginning of the first Offering Period scheduled to end in the following calendar year, unless the Participant terminates them earlier under section "TERMINATION".
+6.6	Cash Contributions
+Eligible Employees may participate in this plan via cash contributions instead of payroll deductions if
+1.	payroll deductions are not permitted under applicable local Law,
+2.	the Administrator determines that cash contributions are permissible under Section 423 of the Code, and
+3.	the Administrator expressly permits cash contributions.
+6.7	Tax Withholding
+1.	Participant Tax Responsibility. At the time an option is exercised, in whole or in part, or at the time some or all of #PARTY A#'s common stock issued under the Plan is disposed of, the Participant shall make adequate provision for #PARTY A#'s federal, state, or other Tax withholding obligations, if any, which arise on the exercise of the option or the disposition of the common stock.
+2.	Tax Withholding. #PARTY A# may withhold from a Participant's compensation any amount necessary for #PARTY A# to meet any of its applicable withholding obligations.
+6.8	Use and Holding of Funds
+#PARTY A# may
+1.	use payroll deductions received or held under this plan for any corporate purpose, and
+2.	hold payroll deductions segregated or otherwise.
+6.9	Interest
+A Participant's Contributions will not accrue interest.
+6.10	Reports
+1.	#PARTY A# Maintains Individual Accounts. #PARTY A# shall maintain individual accounts for each Participant under this plan.
+2.	Account Reports. #PARTY A# shall deliver each Participant with a statement of it account at least once a year, listing the amounts of Contributions, the Purchase Price, the number of shares of common stock purchased, and the remaining cash balance, if any.
+7	Right to Purchase Shares
+7.1	Adjustment of Maximum Number of Shares Allowed
+The Board may, for future Offering Periods, increase or decrease the maximum number of shares of the #PARTY A# common stock a Participant may purchase during each Offering Period.
+7.2	Exercise of Option
+Exercise of the option will occur as provided in this agreement, unless the Participant has withdrawn under section "WITHDRAWAL".
+7.3	Option Expiration
+The option will expire on the last Business Day of the Offering Period.
+8	Exercise Right To Purchase Shares
+8.1	Purchase of Shares
+1.	Automatic Purchase. Unless a Participant withdraws from this plan under section "WITHDRAWAL", on the Exercise Date a Participant's option to purchase shares of #PARTY A# common stock will automatically vest, and the maximum number of full shares subject to the option will be purchased for the Participant at the applicable Purchase Price with the accumulated payroll deductions from the Participant's account.
+2.	Fractional Shares
+a.	No Fractional Shares Purchased. No fractional shares of #PARTY A# common stock will be purchased under this plan.
+b.	Treatment of Funds Insufficient to Purchase a Full Share. Any payroll deductions accumulated in a Participant's account which are not sufficient to purchase a full share of #PARTY A# common stock will remain in the Participant's account for the subsequent Offering Period, unless the Participant withdrawals these shares earlier under section "WITHDRAWAL".
+3.	Residual Funds. #PARTY A# shall return any other funds left over in a Participant's account after the Exercise Date to the Participant.
+4.	Exclusivity of Right. During a Participant's lifetime, a Participant's option to purchase shares under this Agreement is exercisable only by Participant.
+8.2	Pro Rata Allocation
+Notwithstanding any additional shares #PARTY A# is authorized to issue under this plan, if on a given Exercise Date, the number of shares of #PARTY A# common stock in connection with which options will be exercised will exceed
+1.	the number of shares of #PARTY A# common stock that were available for sale under this plan on the Enrollment Date of the applicable Offering Period, or
+2.	the number of shares of #PARTY A# common stock available for sale under this plan on such Exercise Date,
+3.	the Administrator shall provide that #PARTY A# make a pro rata allocation of the shares of its common stock available for purchase on such Enrollment Date or Exercise Date, as applicable, in as uniform a manner as practicable and as it determines to be equitable among all Participants exercising options to purchase its common stock on such Exercise Date, and either
+a.	continue all Offering Periods then in effect, or
+b.	terminate any or all Offering Periods then in effect according to section "TERMINATION".
+8.3	Automatic Transfer to Low Price Offering Period
+To the extent permitted by applicable Law, if the Fair Market Value of #PARTY A#'s common stock on any Exercise Date in an Offering Period is lower than the Fair Market Value of the same stock on the Enrollment Date of such Offering Period, then all Participants in such Offering Period will be automatically
+1.	withdrawn from that Offering Period immediately after the exercise of their option on such Exercise Date, and
+2.	re-enrolled in the immediately following Offering Period as of the first day of that period.
+9	Stock Subject to Plan
+9.1	Maximum Shares
+Subject to adjustment on changes in #PARTY A#'s capitalization under this plan, the maximum number of shares of #PARTY A# common stock that will be made available for sale under this plan will be #MAXIMUM NUMBER OF SHARES# shares of common stock.
+9.2	Right of Participant Prior to Issuing
+Until the shares are issued (as evidenced by the appropriate entry on #PARTY A#'s books or the books of its authorized transfer agent), a Participant will only have the rights of an unsecured creditor with respect to those shares, and no right to vote, receive dividends, or any other rights as a stockholder in connection with those shares.
+9.3	Registration of Shares
+#PARTY A# shall register any shares of its common stock to be delivered to a Participant under this plan in the name of the Participant or in the name of the Participant and his or her spouse.
+10	Withdrawal
+10.1	Right of Withdrawal
+A Participant may withdraw all, but no less than all, the Contributions credited to its account and not yet used to exercise his or her option under this plan at any time by either
+1.	submitting to #PARTY A# a written notice of withdrawal, in the form prescribed by the Board, or
+2.	following an electronic other other withdrawal procedure prescribed by the Board.
+10.2	Termination of Option for Current Period
+Promptly after receiving a Participant's notice of withdrawal,
+1.	#PARTY A# shall pay to that Participant all Contributions credited to its account,
+2.	Participant's option for the current period will be automatically terminated, and
+3.	no further Contributions for the purchase of shares will be made during the Offering Period.
+10.3	Continuous Employment
+If an Employee does not to remain continuously employed by #PARTY A# for at least [20] hours per week during the Offering Period in which the Employee is a participant, 
+1.	Participant will be deemed to have elected to withdraw from this plan, 
+2.	the Contributions credited to Participant's account will be returned to the Participant, and 
+3.	Participant's option will terminate.
+10.4	Future Participation
+A Participant's withdrawal from an Offering Period will not have any effect on its eligibility to participate in 
+1.	any similar plan #PARTY A# adopts after the date of this plan, or 
+2.	subsequent Offering Periods that commence after the termination of the Offering Period from which the Participant withdraws.
+10.5	Re-Enrollment After Withdrawal
+1.	Re-Enrollment After Withdrawal. If a Participant withdraws from this plan, it may not be a participate in subsequent Offering Periods until it re-enrolls in this plan under section "PARTICIPATION".
+2.	Effective Date of Re-Enrollment. Re-enrollment is effective only at the start of an Offering Period.
+11	Adjustments on Changes in Capitalization, Dissolution, Liquidation, Merger, or Asset Sale
+11.1	Changes in Capitalization
+1.	Adjustments After Changes in Capitalization. Subject to any required action by #PARTY A# stockholders, the Board shall proportionately adjust the maximum number of shares each Participant may purchase each Offering Period, the price per share, and the number of shares of #PARTY A# common stock covered by each option under this plan which has not yet been exercised to account for any increase or decrease in the number of issued shares of #PARTY A# common stock resulting from a stock split, reverse stock split, stock dividend, combination, reclassification of the stock, or any other increase or decrease in the number of shares of stock effected without #PARTY A# receiving consideration.
+2.	Issuances Not Requiring Adjustment. Unless expressly provided for in this plan, #PARTY A# issuing shares of any class of stock, or securities convertible into shares of any class of stock, will not affect, and no adjustment will be made in connection with, the number or price of shares of #PARTY A# common stock subject to an option.
+11.2	Dissolution or Liquidation
+1.	Adjustments In Case of Dissolution or Liquidation. In the event of a proposed dissolution or liquidation of #PARTY A#, the Board will shorten the Offering Period then in progress by setting a New Exercise Date so that the Offering Period will terminate immediately before the consummation of the proposed dissolution or liquidation, unless the Board or Committee provides otherwise. 
+2.	New Exercise Date In Case of Dissolution or Liquidation. The New Exercise Date under this paragraph "DISSOLUTION OR LIQUIDATION" will be before the date of #PARTY A#'s proposed dissolution or liquidation. 
+11.3	Merger or Asset Sale
+1.	Adjustments In Case of Merger or Asset Sale. In the event of a proposed sale of all or substantially all of #PARTY A#'s assets, or #PARTY A#'s merger with or into another corporation, each outstanding option will be assumed or an equivalent option substituted by the successor corporation, a Parent, or Subsidiary of the successor corporation. 
+2.	New Exercise Date In Case of Merger or Asset Sale. In the event that the successor corporation refuses to assume or substitute for the option, the Board shall shorten the Offering Period then in progress by setting a New Exercise Date on a date before the date of the proposed sale or merger.
+11.4	Notice of New ExerciseDate 
+If the Board sets a New Exercise Date under this section, the Board or Committee shall notify each Participant in writing, at least 10 Business Days before the New Exercise Date, that the
+1.	Exercise Date for the Participant's option has been changed to the New Exercise Date, and 
+2.	Participant's option will automatically exercise on the New Exercise Date, unless the Participant withdraws from the Offering Period before the New Exercise Date.
+12	Term of Plan
+12.1	Effective Date
+This plan will become effective on the earlier of 
+1.	the Board adopting this plan, or 
+2.	#PARTY A#'s stockholders approving this plan.
+12.2	Term
+  This plan will continue for a term of #TERM PERIOD# months/years, unless terminated earlier under section "AMENDMENT OR TERMINATION".
+13	Amendment or Termination
+13.1	Amendment
+1.	Right of Administrator to Amend, Suspend or Terminate Plan
+a.	The Administrator may amend, suspend, or terminate this plan, or any part of this plan, for any reason.
+b.	If this plan is terminated, the Administrator may elect to
+i.	terminate all outstanding Offering Periods either immediately or on completion of the purchase of shares of #PARTY A# common stock on the next Exercise Date (which the Administer may re-schedule to be sooner than originally scheduled), or
+ii.	permit Offering Periods to expire according to their terms (and subject to any adjustment in connection with section "ADJUSTMENTS").
+2.	Consequences of Early Termination of Offering Period. If Offering Periods are terminated before expiration, #PARTY A# shall promptly return to Participants all amounts then credited to Participants' accounts that have not been used to purchase shares of Common Stock (without interest, except as otherwise required under local Laws).
+13.2	Termination and Return of Payroll Deductions
+1.	Termination. This plan and all rights of Employees under an Offering under this plan will terminate
+a.	on the date
+i.	Participants' accumulated payroll deductions in connection with section "PAYROLL DEDUCTIONS" are sufficient to purchase a number of shares equal to or greater than the number of shares remaining available for purchase, and
+ii.	all such available shares have been purchased (if the number of shares so purchasable is greater than the shares remaining available, the Committee shall allocate the available shares among such Participants as it deems equitable), or
+b.	at any time at the Board's discretion.
+2.	Return of Payroll Deductions. On the termination of this plan, #PARTY A# shall promptly refund all Participants' accumulated payroll deductions not applied to the purchase of shares under this plan.
+13.3	Changes without Stockholder Consent.
+ Without shareholder consent and without regard to whether any Participant's rights may be considered to have been adversely affected, the Board or Committee may 
+1.	change the Offering Periods,
+2.	limit the frequency or number of changes in the amount withheld during an Offering Period,
+3.	establish the exchange ratio applicable to amounts withheld in a currency other than U.S. dollars,
+4.	permit payroll withholding in excess of the amount designated by a Participant in order to adjust for delays or mistakes in #PARTY A#'s processing of properly completed withholding elections,
+5.	establish reasonable waiting and adjustment periods or accounting and crediting procedures to ensure that amounts applied toward the purchase of its common stock for each Participant properly correspond with amounts withheld from the Participant's Compensation, and
+6.	establish such other limitations or procedures as the Board or Committee determines advisable which are consistent with this plan.
+13.4	Changes for Financial Accounting
+1.	Administrator's Discretion to Make Changes. In the event the Administrator determines that the ongoing operation of this plan may result in unfavorable financial accounting consequences, the Administrator may, to the extent necessary or desirable, modify, amend, or terminate this plan to reduce or eliminate such accounting consequence including,
+a.	amending this plan to conform with the safe harbor definition under the Financial Accounting Standards Board Accounting Standards Codification Topic 718 (or any successor to it), including in connection with an Offering Period underway at the time,
+b.	altering the Purchase Price for any Offering Period, including a Offering Period underway at the time of the change in Purchase Price,
+c.	shortening any Offering Period by setting a New Exercise Date, including a Offering Period underway at the time of the Administrator action,
+d.	reducing the maximum percentage of Compensation a Participant may elect to set aside as Contributions, and
+e.	reducing the maximum number of shares of #PARTY A# common stock a Participant may purchase during any Offering Period.
+2.	No Stockholder or Participant Approval or Consent Required. The Administrator may modify or amend this plan under this paragraph "CHANGES FOR FINANCIAL ACCOUNTING" without stockholder approval or Participant consent.
+14	Definitions
+"Board" means #PARTY A#'s board of directors.
+"Business Day" means a day other than a Saturday, a Sunday, or any other day on which the principal banks located in New York, New York are not open for business. 
+A "Change in Control" will be deemed to occur on the earliest of
+1.	any Person becoming the "beneficial owner" (as defined in Rule 13d-3 of the Exchange Act), directly or indirectly, of securities of #PARTY A# representing more than 50% of the total voting power represented by #PARTY A#'s then-outstanding voting securities,
+2.	the consummation of #PARTY A#'s sale or disposition of all or substantially all of its assets,
+3.	the consummation of a merger or consolidation of #PARTY A# with or into any other entity, other than a merger or consolidation which would result in the voting securities of #PARTY A# outstanding immediately prior to the transaction continuing to represent (either by remaining outstanding or by being converted into voting securities of the surviving entity or its parent) more than 50% of the total voting power represented by #PARTY A#'s voting securities, such surviving entity, or its parent outstanding immediately after the merger or consolidation,
+4.	if Persons who are members of #PARTY A#'s Board at the time #PARTY B#'s employment with #PARTY A# began cease for any reason to constitute at least a majority of the members of the board over a 12 month period; provided, however, that if the appointment or election (or nomination for election) of any new board member was approved or recommended by a majority vote of the members of #PARTY A#'s Board in position at the time #PARTY B#'s employment with #PARTY A# began then still in office, such new board member will, for purposes of this agreement, be considered as a member of #PARTY A#'s board of directors at the time #PARTY B#'s employment with #PARTY A# began, but not
+5.	if the event or transaction's sole purpose is to change the state of #PARTY A#'s incorporation or to create a holding company that will be owned in substantially the same proportions by the Persons who held #PARTY A#'s securities immediately before such event or transaction.
+"Code" means the Internal Revenue Code of 1986, as amended.
+"Committee" means the Compensation Committee of the Board or its authorized delegate.
+"Compensation" means all cash compensation reportable on Form W-2, including base straight time gross earnings, sales commissions, payments for overtime, shift premiums, incentive compensation, incentive payments, bonuses, and any amounts the Employee contributed to #PARTY A#'s 401(k) plan from compensation #PARTY A# paid to the Employee.
+"Contributions" means the payroll deductions and other additional payments that #PARTY A# may permit Participants to make to fund the exercise of options granted under this plan.
+"Eligible Employee" is defined in section "ELIGIBILITY".
+"Employee" means any Person, including an officer, employed by #PARTY A#[ or one of its Subsidiaries]. The Board or Committee may, prior to an Enrollment Date, applicable only to all options to be granted on that Enrollment Date, change the definition of Employee so that it "Employee" will or will not include an individual if he or she: (a) has not completed at least [two] years of service since his or her last hire date (or a lesser period of time the Board or Committee determines), (b) customarily works not more than [20] hours per week or not more than [five] months per calendar year (or a lesser period of time the Board or Committee determines), or (c) is a highly compensated employee under Section 414(q) of the Code.
+"Employer" means the employer of the applicable Eligible Employee(s).
+"Enrollment Date" means the first Trading Day on or after every [DATE, MONTH][, and [DATE, MONTH]] of each year.
+"Exchange Act" means the Securities Exchange Act of 1934, as amended (including the rules and regulations promulgated under the Securities Exchange Act of 1934).
+"Exercise Date" means 
+1.	the date approximately [six] months after the Enrollment Date of an Offering Period, and 
+2.	one Trading Day before an Enrollment Date of the immediately following Offering Period.
+"Fair Market Value" means, as of any date, the closing sales price of #PARTY A# common stock (or the closing bid, if no sales were reported) as quoted on the stock exchange with the greatest volume of trading in #PARTY A# common stock on the last Trading Day before to the date of determination, as reported in The Wall Street Journal or such other source as the Board or Committee deems reliable. 
+"Law" means
+1.	 any law (including the common law), statute, by-law, rule, regulation, order, ordinance, treaty, decree, judgment, and 
+2.	any official directive, protocol, code, guideline, notice, approval, order, policy, or other requirement of any governmental authority having the force of law. 
+"New Exercise Date" means a new Exercise Date if the Administrator shortens any Offering Period then in progress.
+"Offering Period" means the periods of approximately [six] months during which an option granted under this plan may be exercised, commencing on the first Trading Day on or after [February 1] and [August 1] of each year, and terminating on the Exercise Date approximately [six] months later. The duration and timing of Offering Periods may be changed under sections "OFFERING PERIOD" and "TERMINATION".
+"Offering" means an offer under this plan of an option that may be exercised during an Offering Period. For purposes of this Plan, the Administrator may designate separate Offerings (the terms of which need not be identical) in which Employees of one or more Employers will participate, even if the dates of the applicable Offering Periods of each such Offering are identical.
+"Parent" means a "parent corporation," existing at or after the date of this agreement, as defined in Section 424(e) of the Code. 
+"Participant" is defined in section "PARTICIPATION".
+"Permits" means all material licenses, franchises, permits, certificates, approvals, and authorizations, from governmental authorities necessary for the ownership and operation of the party's business. 
+"Person" includes 
+1.	any corporation, company, limited liability company, partnership, governmental authority, joint venture, fund, trust, association, syndicate, organization, or other entity or group of persons, whether incorporated or not, and 
+2.	any individual. 
+"Purchase Price" means an amount equal to [85%] of the Fair Market Value of a share of #PARTY A# common stock on the Enrollment Date or on the Exercise Date, whichever is lower; provided however, that the Purchase Price may be determined for subsequent Offering Periods by the Administrator subject to compliance with Section 423 of the Code (or any successor rule or provision or any other applicable law, regulation, or stock exchange rule).
+"Subsidiaries" means any legal entity that 
+1.	a party owns more than 50% of the entity's outstanding voting securities or equity interests, or 
+2.	of which a party is a general partner (excluding partnerships in which such party or any Subsidiary of such party does not have a majority of the voting interests in such partnership).
+"Taxes" includes all taxes, assessments, charges, duties, fees, levies, and other charges of a governmental authority, including income, franchise, capital stock, real property, personal property, tangible, withholding, employment, payroll, social security, social contribution, unemployment compensation, disability, transfer, sales, use, excise, gross receipts, value-added and all other taxes of any kind for which a party may have any liability imposed by any governmental authority, whether disputed or not, any related charges, interest or penalties imposed by any governmental authority, and any liability for any other person as a transferee or successor by Law, contract or otherwise.
+"Trading Day" means a day on which the #RELEVANT STOCK EXCHANGE# is open for trading.
+15	Compliance With Securities Law
+The parties shall cooperate to use reasonable efforts to obtain all necessary Permits and approvals under state securities Law[ or "Blue Sky" Laws ]required to carry out[ the transactions under] this agreement, directly or indirectly by securing legal counsel for such work.
+16	Services to #PARTY A#
+16.1	Employment Duties
+#PARTY B# hereby agrees to serve as a director or officer of #PARTY A#.
+16.2	Employment at Will
+1.	Resign for Any Reason. #PARTY B# may resign from its position for any reason (subject to any other contractual obligation or any obligation imposed by Law),
+2.	No Further Obligations. If #PARTY B# resigns under paragraph #RESIGN FOR ANY REASON#, #PARTY A# will not have any obligation under this agreement to continue to employ #PARTY B# in such position.
+16.3	No Employment Agreement
+This agreement shall not be deemed an employment contract between #PARTY A# (or any of its subsidiaries or any Enterprise) and #PARTY B#.
+17	Section 409A of Code
+1.	Interpreted According to Section 409A. The parties hereby acknowledge their mutual intent that this [agreement / plan] be interpreted
+a.	consistent with the requirements of the Code, including Section 409A of the Code, the Treasury Regulations under the Code, and
+b.	to meet any applicable requirements under or exceptions from the Code, including Section 409A or the Code, and the Treasury regulations under the Code.
+2.	Administered According to Section 409A. The Committee shall use reasonable efforts to ensure this plan is administered according to and to meet any applicable requirements under or exceptions from the Code, including Section 409A of the Cod, and the Treasury Regulations under the Code.
+18	Notices
+1.	Method of Notice. The parties shall give all notices and communications between the parties in writing by (i) personal delivery, (ii) a nationally-recognized, next-day courier service, (iii) first-class registered or certified mail, postage prepaid[, (iv) fax][, or (v) electronic mail] to the party's address specified in this agreement, or to the address that a party has notified to be that party's address for the purposes of this section.
+2.	Receipt of Notice. A notice given under this agreement will be effective on
+a.	the other party's receipt of it, or
+b.	if mailed, the earlier of the other party's receipt of it and the [fifth] business day after mailing it. 
+19	 Binding Effect
+This [agreement/plan] will benefit and bind the parties and their respective heirs, successors, and permitted assigns.
+20	Assignment
+Neither party may assign this agreement or any of their rights or obligations under this agreement without the other party's written consent.
+21	Governing Law
+This agreement shall be governed, construed, and enforced in accordance with the laws of the State of #GOVERNING LAW STATE#, without regard to its conflict of laws rules.
+22	Severability
+If any part of this agreement is declared unenforceable or invalid, the remainder will continue to be valid and enforceable.
+This agreement has been signed by the parties.
+#PARTY A NAME#
+#PARTY B NAME#
+Full Name:
+Title:
+Date:
+Signature:
+Full Name:
+Title:
+Date:
+Signature:
+
+
+
+

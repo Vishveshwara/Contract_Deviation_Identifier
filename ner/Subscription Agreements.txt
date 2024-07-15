@@ -1,0 +1,43 @@
+Key Entities in Subscription Agreement
+
+Parties to the Agreement:
+
+[PARTY A NAME]: Incorporation details and principal place of business.
+[PARTY B NAME]: Incorporation details and principal place of business.
+Subscription Services:
+
+Description of the services provided by [PARTY A] to [PARTY B] under the Subscription Agreement.
+Subscription Term:
+
+Commencement date and duration of the initial term and any renewal terms.
+Fees and Payment:
+
+Subscription Fee: Amount and frequency of payment.
+Payment terms: Details on invoicing and payment deadlines.
+Taxes: Responsibility for applicable taxes related to the Subscription Services.
+Use of Subscription Services:
+
+Authorized use: Conditions under which [PARTY B] may use the Subscription Services.
+Restrictions: Prohibited actions related to modifying, sublicensing, or reverse engineering the Subscription Services.
+Support and Maintenance:
+
+Obligations of [PARTY A] to provide updates, maintenance, and support for the Subscription Services during the Subscription Term.
+Intellectual Property:
+
+Ownership rights: Each party's rights to their respective intellectual property developed before or outside the scope of the Agreement.
+Confidentiality:
+
+Obligations related to the protection and non-disclosure of confidential information exchanged between the parties.
+Termination:
+
+Conditions under which either party may terminate the Agreement, including notice periods and consequences of termination.
+Indemnification:
+
+Obligations of one party to indemnify the other for certain claims or liabilities arising from the Agreement.
+Limitation of Liability:
+
+Limits on the liability of each party for breach-of-contract damages.
+Governing Law and Dispute Resolution:
+
+Jurisdiction and laws governing the Agreement.
+Dispute resolution mechanisms, such as arbitration or mediation.

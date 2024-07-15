@@ -1,0 +1,159 @@
+Non-Disclosure Agreement (NDA) Template
+
+Title:
+Look for keywords like "Non-Disclosure Agreement," "Confidentiality Agreement," "NDA"
+Parties Involved:
+
+Party A:
+Look for phrases like "the Disclosing Party," "Party A," "[Party A Name]"
+Look for principal place of residence or business address
+Party B:
+Look for phrases like "the Receiving Party," "Party B," "[Party B Name]"
+Look for principal place of residence or business address
+
+Effective Date:
+Look for phrases like "Effective Date," "Agreement Date," "Commencement Date"
+
+Definitions:
+Confidential Information:
+Look for sections defining what constitutes "Confidential Information"
+
+Non-Confidential Information:
+Look for exceptions to what is considered Confidential Information
+
+Obligations of the Parties:
+Exchange of Information:
+Look for phrases like "exchange Confidential Information," "for the purpose of [Purpose]"
+
+Confidentiality Obligation:
+Look for phrases like "hold the Confidential Information in confidence," "use in accordance with this Agreement"
+
+Limitation on Use:
+Look for phrases like "may only use Confidential Information for the Purpose"
+
+Disclosure and Use:
+Non-Disclosure:
+Look for phrases like "not disclose Confidential Information to a third party without consent"
+
+Non-Disclosure of Discussions:
+Look for phrases like "discussions concerning potential business transaction," "disclosed between the parties"
+
+Standard of Care:
+Look for phrases like "exercise reasonable care to protect Confidential Information"
+Return or Destruction of Confidential Information:
+
+Obligation to Return or Destroy:
+Look for phrases like "return all Confidential Information," "destroy all copies"
+
+Archive Exception:
+Look for phrases like "retain an archival copy to comply with Law," "continue to hold in confidence"
+
+Required Disclosure:
+Notification of Disclosure:
+Look for phrases like "compelled by Law to disclose," "prompt written notice"
+
+Limited Disclosure:
+Look for phrases like "only to the extent necessary"
+
+Non-Solicitation:
+Non-Solicitation of Employees and Customers:
+Look for phrases like "induce or attempt to induce any officer, director, or employee to leave," "solicit or accept business from any customer"
+
+Permitted Hirings and Business:
+Look for exceptions allowing employment or business under specific conditions
+
+Standstill Representation and Covenants:
+Look for phrases related to ownership of securities, restrictions on acquisition, and influencing management
+
+No Modification of Confidential Information:
+Look for phrases like "not copy, decompile, modify, reverse engineer"
+
+Permitted Disclosure:
+Look for phrases like "disclosing party consents in writing," "to the receiving party’s officers, directors, employees"
+
+Term of Confidentiality:
+Trade Secrets:
+Look for phrases like "obligation of confidentiality will continue until no longer a trade secret"
+
+Other Confidential Information:
+Look for phrases defining the term period for other confidential information
+
+Mutual Representations:
+Look for phrases like "authority and capacity to enter into this agreement," "legal, valid, and binding obligation"
+
+No Warranty:
+Look for phrases like "disclosing party makes no representation as to the accuracy or completeness"
+
+Ownership and Return of Confidential Information:
+Ownership:
+Look for phrases like "Confidential Information remains the disclosing party's exclusive property"
+
+Return:
+Look for phrases like "return all Confidential Information received," "destroy any copies"
+
+No License Right:
+Look for phrases like "no license, implied or otherwise, is granted"
+
+No Other Obligations:
+Look for phrases like "no obligation to purchase or provide products or services"
+
+Independent Development:
+Look for phrases like "each party may be developing similar or competitive information"
+
+Acknowledgement of Securities Laws:
+Look for phrases related to restrictions imposed by securities laws
+
+Termination on Notice:
+Look for phrases like "terminate this agreement on [Termination Notice Period]"
+
+Indemnification:
+Indemnification Obligation:
+Look for phrases like "indemnify against all losses," "unauthorized or improper use or disclosure"
+
+Notice and Failure to Notify:
+Look for phrases like "notify the indemnifying party of the indemnifiable proceeding"
+
+Exclusive Remedy:
+Look for phrases like "exclusive remedy available in connection with indemnifiable proceedings"
+
+Equitable Relief:
+Acknowledgment of Irreparable Harm:
+Look for phrases like "breach or threatened breach would result in irreparable harm"
+
+Intent to Allow for Equitable Remedies:
+Look for phrases like "request equitable remedies including injunctive relief"
+
+General Clauses:
+
+Entire Agreement:
+Look for phrases like "entire understanding," "supersedes any previous communication"
+
+Counterparts:
+Look for phrases like "may be executed in counterparts"
+
+Amendment:
+Look for phrases like "can be amended only by a writing signed by both parties"
+
+Notices:
+Look for phrases defining methods of notice and effectiveness of notice
+
+Assignment:
+Look for phrases like "neither party may assign without written consent"
+
+Governing Law:
+Look for phrases like "governed by the laws of [State]"
+
+Waiver:
+Look for phrases like "failure to enforce rights not deemed a waiver"
+
+Severability:
+Look for phrases like "if any part is declared invalid, the remainder will continue"
+
+Headings:
+Look for phrases like "section headings are for reference purposes only"
+
+Attorney Fees:
+Look for phrases like "prevailing party may recover expenses including attorney's fees"
+
+Signatures:
+Look for fields for "Full Name," "Title," "Date," "Signature" for both parties

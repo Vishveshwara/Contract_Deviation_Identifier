@@ -1,0 +1,463 @@
+Reseller Agreement
+This agreement is entered into as of the last date signed by the parties (the "Effective Date") between #PARTY A NAME#, [whose principal place of residence is at / a #PARTY A JURISDICTION# corporation with its principal place of business at #PARTY A ADDRESS#] (the "#PARTY A#") and #PARTY B NAME#, [whose principal place of residence is at / a #PARTY B JURISDICTION# corporation with its principal place of business at #PARTY B ADDRESS#] (the "#PARTY B#").
+
+(The capitalized terms used in this agreement, in addition to those above, are defined in section "DEFINITIONS".)
+
+1	Appointment of Reseller
+1.1	Authorization and Appointment
+#PARTY A# hereby authorizes and appoints #PARTY B#, and #PARTY B# accepts the authorization and appointment, as #PARTY A#'s [non-exclusive / exclusive] reseller, to market, sell, or incorporate for resale the #PARTY A# Products listed in the #ATTACHMENT# attached to this agreement within the Territory.
+
+1.2	Revision of Authorization
+#PARTY A# may revise the list of Products by
+1.	giving #PARTY B# written notice, and
+2.	cooperating with #PARTY B# to draft, execute, and attach to this agreement an amended list of Products reflecting the revisions.
+
+2	Orders
+2.1	Purchase Orders
+#PARTY B# shall submit all orders for Products to #PARTY A# in writing to #PARTY A#'s address listed in the introduction to this agreement, or as #PARTY A# otherwise specifies in writing, (each a "Purchase Order") and include in each Purchase Order
+1.	each Product it is ordering, identified by model or part number,
+2.	the amount of each Product it is ordering,
+3.	the unit price of each Product it is ordering,
+4.	the location for delivery, and
+5.	the delivery date, allowing reasonable time for #PARTY A# to receive, review, process the Purchase Order, and ship the Products (the "Delivery Date").
+
+2.2	Accepting, Modifying, and Rejecting Purchase Orders
+1.	By Notice. Within [seven] Business Days' of receiving a Purchase Order from #PARTY B#, #PARTY A# shall accept, reject, or propose a modification to the Purchase Order by sending #PARTY B# written notice of its acceptance, rejection, or proposed modification.
+2.	Deemed Acceptance. If #PARTY A# fails to notify #PARTY B# of its acceptance, rejection, or proposed modification, #PARTY B# may deem that #PARTY A# accepted the Purchase Order.
+3.	Modification of Purchase Order. #PARTY A# may propose a modification to a Purchase Order by including in its notice to #PARTY B# a modified Purchase Order for #PARTY B# to accept or reject according to the acceptance and rejection procedures under paragraphs "BY NOTICE" and "DEEMED ACCEPTANCE".
+
+2.3	Canceling Purchase Orders
+#PARTY B# may, at no expense to itself, cancel part or all of a Purchase Order up to #CANCELLATION WINDOW# Business Days before the Delivery Date.
+
+3	Provide Products
+#PARTY A# shall
+1.	fulfill all of #PARTY B#'s Purchase Orders that #PARTY A# accepts, and
+2.	replace or repair defective Products that are under warranty.
+
+4	Delivery of Products
+4.1	Delivery
+#PARTY A# shall, at no expense to #PARTY B#, deliver each order of Products to #PARTY B# 
+1.	on the Delivery Date and to the location specified in the applicable Purchase Order, 
+2.	using any delivery method the parties agree to in writing.
+
+4.2	Risk of Loss Shifts on Delivery
+#PARTY A# will remain liable for any damages, losses, or defects to the Products until the Products are delivered to #PARTY B#, after which #PARTY B# will be solely liable.  
+
+5	Product Materials
+5.1	Marketing and Informational Materials
+#PARTY A# shall provide #PARTY B# with the marketing, promotional, and other information in English about the Products that #PARTY A# typically provides to other distributors of its Products.
+
+5.2	Regulatory Documentation
+On #PARTY B#'s reasonable request, #PARTY A# shall supply #PARTY B# with all documentation #PARTY B# requires to comply with the regulatory requirements of all Governmental Authorities in the Territory.
+
+6	Acceptance and Rejection of Product Deliveries
+6.1	Inspection Period
+#PARTY B# will have #INSPECTION PERIOD# Business Days' after #PARTY A# delivers an order of Products to inspect and test the Products for defects and to ensure the order meets the specifications of the applicable Purchase Order (the "Inspection Period").
+
+6.2	Acceptance
+If in #PARTY B#'s opinion the Products satisfy the specifications of the applicable Purchase Order, #PARTY B# shall accept the Products and notify #PARTY A# that it is accepting them.
+
+6.3	Deemed Acceptance
+#PARTY B# will be deemed to have accepted Products if
+1.	#PARTY B# fails to notify #PARTY A# on or before the expiration of the Inspection Period, or
+2.	if during the Inspection Period, #PARTY B# sells or attempts to sell, runs, or otherwise uses the Products beyond what is necessary for inspection and testing, and in a way a reasonable Person would consider consistent with #PARTY B# having accepting the delivery from #PARTY A#.
+
+6.4	Rejection and Cure
+If in #PARTY B#'s opinion, a delivery of Products fails to meet the specifications of the applicable Purchase Order,
+1.	#PARTY B# shall deliver to #PARTY A# a written list detailing each failure, and
+2.	#PARTY A# shall promptly deliver to #PARTY B# any Products necessary to remedy each failure, at no expense to #PARTY B#. 
+
+7	Changes to Products
+#PARTY A# may discontinue or modify the Products, modify the Product specifications, or replace the Products with similar #PARTY A# or third party products, except that #PARTY A# may not discontinue, modify, or replace Products that are subject to an accepted and outstanding Purchase Order, unless required by Law.
+
+8	Price
+8.1	Price for #PARTY B#
+#PARTY B# shall pay #PARTY A#'s list price for each Product, as listed in the #ATTACHMENT#, attached to this agreement, less #PARTY B#'s Discount.
+
+8.2	Discount
+#PARTY B#'s "Discount" is #DISCOUNT PERCENTAGE# percent, which will be applied to #PARTY A#'s list price of each unit of each Product at the time #PARTY B# places its order.
+
+8.3	Resale Prices
+#PARTY B# may determine its own retail prices, taking into account suggested retail prices provided by #PARTY A#.
+
+8.4	Changes to Prices
+1.	Notice of Upcoming Changes. If #PARTY A# changes its list prices, #PARTY A# shall give #PARTY B# [one] month notice before implementing those changes.
+2.	No Effect on Outstanding Purchase Orders. Changes to #PARTY A#'s list prices will not affect any Purchase Orders already submitted.
+
+8.5	Changes to Discount
+  Neither party may change the Discount without the other party's written consent.
+
+8.6	Most Favored Customer
+If #PARTY A# sells Products to any third party at a price lower than what it charges #PARTY B# for those Products, #PARTY A# shall pay #PARTY B# the difference between what it charged #PARTY B# and the price it charged the third party.
+
+9	Payment of List Prices
+9.1	Invoice Delivery
+#PARTY A# shall invoice #PARTY B# for each delivery of Products within [seven] Business Days' after #PARTY B# accepts the delivery.
+
+9.2	Invoice Procedure and Requirements
+#PARTY A# shall 
+1.	make each invoice to #PARTY B# in writing, including
+a.	an invoice date and number, 
+b.	the total amount due, and
+c.	the calculation of the total amount, and
+2.	send each invoice to the recipient #PARTY A# specifies directly below:
+Name:
+Title:
+Mailing Address:
+Email Address:
+
+9.3	Payment
+#PARTY B# shall pay each invoice
+1.	within #PAYMENT DEADLINE# Business Days' after receiving each invoice, 
+2.	in immediately available funds, 
+3.	to the account #PARTY A# specifies directly bellow:
+Account Number:
+Routing Number:
+
+10	Taxes
+Payment amounts under this agreement do not include taxes, and #PARTY A# shall pay all Taxes applicable to payments between the parties under this agreement.
+
+11	Interest on Late Payments
+Any amount not paid when due will bear interest from the due date until paid at a rate equal to [1]% per month ([12.68]% annually) or the maximum allowed by Law, whichever is less.
+
+12	Term
+This agreement will commence on the Effective Date, and will continue for #TERM PERIOD# months/years unless terminated earlier (the "Term").
+
+13	Representations
+13.1	Mutual Representations
+1.	Existence. The parties are corporations incorporated and existing under the Laws of the jurisdictions of their respective incorporation.
+2.	Authority and Capacity. The parties have the authority and capacity to enter into this agreement.
+3.	Execution and Delivery. The parties have duly executed and delivered this agreement.
+4.	Enforceability. This agreement constitutes a legal, valid, and binding obligation, enforceable against the parties according to its terms.
+5.	No Conflicts. Neither party is under any restriction or obligation that the party could reasonably expect might affect the party's performance of its obligations under this agreement.
+6.	No Breach. Neither party’s execution, delivery, or performance of its obligations under this agreement will breach or result in a default under
+a.	its articles, bylaws, or any unanimous shareholders agreement,
+b.	any Law to which it is subject,
+c.	any judgment, Order, or decree of any Governmental Authority to which it is subject, or
+d.	any agreement to which it is a party or by which it is bound.
+7.	Permits, Consents, and Other Authorizations. Each party holds all Permits and other authorizations necessary to
+a.	own, lease, and operate its properties, and
+b.	conduct its business as it is now carried on.
+8.	No Disputes or Proceedings. [Except as disclosed in the parties respective Disclosure Schedules] There are no Legal Proceedings pending, threatened, or foreseeable against either party, which would affect that party’s ability to complete its obligations under this agreement.
+9.	No Bankruptcy. Neither party has taken or authorized any proceedings related to that party’s bankruptcy, insolvency, liquidation, dissolution, or winding up.
+
+13.2	#PARTY A#'s Representations
+1.	Disclosure Schedule. #PARTY A#'s Disclosure Schedule lists any exceptions to its representations.
+2.	Ownership. [Except as listed in #PARTY A#'s Disclosure Schedule] #PARTY A# is the sole owner of the Products, free of any claims by a third party or any Encumbrance.
+3.	Legal Right. #PARTY A# has the [exclusive] right to transfer the Products.
+4.	No Infringement. #PARTY A#'s sale of the Products does not infringe on or constitute a misappropriation of the Intellectual Property or other rights of any third party.
+
+14	Limited Warranties
+14.1	#PARTY A# Products
+All #PARTY A# Products are covered by #PARTY A#'s limited warranty statements that are provided with the products or otherwise made available.
+
+14.2	Third Party Products
+Non-#PARTY A#-branded products receive warranty coverage as provided by the relevant third party supplier.
+
+14.3	Software Warranty
+#PARTY A# hereby warrants that for the Warranty Period, that when operated according to the documentation and other instructions #PARTY A# provides, software will perform substantially according to the functional specifications listed in the documentation.
+
+14.4	No Other Obligation
+#PARTY A#'s obligation to repair or replace defects under this section will be #PARTY B#'s sole remedy for defects.
+
+15	No Other Warranties
+15.1	"As-Is"
+Unless otherwise listed in this agreement, Products are provided "as is," with all faults, defects, bugs, and errors.
+
+15.2	No Warranty
+Unless otherwise listed in this agreement,
+1.	#PARTY A# does not make any warranty regarding the Products, which includes that 
+2.	#PARTY A# disclaims to the [fullest] extent authorized by Law any and all [other] warranties, whether express or implied, including any implied warranties of [title, non-infringement, quiet enjoyment, integration,] merchantability or fitness for a particular purpose.
+
+16	Intellectual Property
+Except for rights expressly granted under this agreement,
+1.	nothing in this agreement will function to transfer any of either party's Intellectual Property rights to the other party, and
+2.	each party will retain exclusive interest in and ownership of its Intellectual Property developed before this agreement or developed outside the scope of this agreement.
+
+17	Reseller Responsibilities
+17.1	Marketing
+#PARTY B# shall use reasonable efforts to market, advertise, and otherwise promote and sell the Products in the Territory.
+
+17.2	Records and Reports
+1.	Maintain Records and Reports. For [three] years after the expiration or termination of this agreement, #PARTY B# shall maintain records of its marketing, sales, and support and maintenance services under this agreement.
+2.	Reports to #PARTY A#. On #PARTY A#'s reasonable request, #PARTY B# shall provide #PARTY A# with reports describing its sales of Product in the Territory, including the number of Product sold, the dates and serial numbers of the Product sold, and remaining inventory on hand.
+
+17.3	Employee Training
+#PARTY B# shall ensure that any of its employees who are responsible for the marketing, sales, and technical support services for the Products have proper skill, training, and background to enable them to provide these services in a competent and professional manner, including ensuring relevant employees complete any training programs #PARTY A# requires.
+
+17.4	Repair and Evaluation Materials
+#PARTY B# shall maintain adequate spare units, spare parts, and evaluation units necessary to provide marketing, sales, and technical support services to customers.
+
+17.5	Cooperation
+#PARTY B# shall work closely with #PARTY A# and use reasonable efforts to meet the mutually agreed-upon sales goals.
+
+17.6	Sales Forecast
+#PARTY B# shall provide #PARTY A# with a quarterly sales forecast, in a mutually agreed-on format.
+
+17.7	Markings and Notices
+#PARTY B# will not remove or alter any trademarks, Product identification, notices of any proprietary or copyright restrictions, or other markings or notices that appear on the Products or their packaging.
+
+17.8	No Reverse Engineering
+#PARTY B# will not 
+1.	create or attempt to, or aid or permits others to, create by reverse engineering, disassembly, decompilation, reverse engineering or otherwise, the internal structure, the source code, hardware design, or organization of any Product, unless expressly permitted by Law,
+2.	copy, modify, translate, or create derivative works of software included in any Product, unless #PARTY A# consents in writing, or
+3.	separate the Product into component parts for distribution or transfer to a third party.
+
+17.9	Internal Use
+#PARTY B# will not use Products for its internal use, unless #PARTY A# consents in writing.
+
+17.10	End User Information
+On #PARTY A#'s request, and to the extent permitted by Law, #PARTY B# shall provide #PARTY A# with end user contact information.
+
+18	License Grants
+18.1	Software License Grant
+#PARTY A# hereby grants #PARTY B# a non-transferable, non-exclusive, non-sublicensable, and royalty-free license to use and distribute any software incorporated in Products solely for use by customers in and in connection with their use of Products.
+
+18.2	Documentation License Grant
+#PARTY A# hereby grants to #PARTY B# a non-transferable, non-exclusive, non-sublicensable, and royalty-free license to
+1.	reproduce or transmit documentation #PARTY A# provides #PARTY B# for marketing, selling, and distributing the Products (provided such documentation is not modified and ANDA's proprietary notices are not removed),
+2.	reproduce and transmit any user manuals and other documentation #PARTY A# creates for customers in connection with the Products.
+
+18.3	#PARTY A# Trademark License Grant
+#PARTY A# hereby grants to #PARTY B# a non-transferable, non-exclusive, non-sublicensable, and royalty-free license to use #PARTY A#'s name, trademarks, logos, and other identifying information on marketing literature, advertising, promotions, customer information, and programs #PARTY B# creates in connection with the Products[, subject to #PARTY A#'s written approval in each instance].
+
+18.4	Trademark Use
+#PARTY B# shall comply with all of #PARTY A#'s policies regarding the use and display of #PARTY A#'s name, trademarks, logos, and other identifying information that #PARTY A# provides to #PARTY B# in writing.
+
+19	Compliance with Laws
+Each party shall
+1.	comply with all Laws [relating to "SUBJECT MATTER OF THE AGREEMENT"],
+2.	keep records evidencing its compliance,
+3.	on the other party's reasonable request, provide these records of compliance to the other party, and
+4.	notify the other party if it becomes aware of any non-compliance in connection with this section.
+
+20	Export Control Laws
+Each party shall obtain all Permits necessary to and otherwise comply with all Laws on export control applicable to this agreement and all transactions contemplated under this agreement.
+
+21	Confidentiality Obligations
+The parties shall continue to be bound by the terms of the non-disclosure agreement between the parties, dated #DATE# and attached to this agreement on #ATTACHMENT#.
+
+22	Publicity
+22.1	Consent
+Neither party will use the other party's name, logo, or trademarks, or issue any press release or public announcement regarding this agreement, without the other party's written consent, unless specifically permitted under this agreement or required by Law.
+
+22.2	Cooperation
+The parties shall cooperate to draft all appropriate press releases and other public announcements relating to the subject matter of this agreement and the relationship between the parties.
+
+22.3	No Unreasonable Delay
+The parties will not unreasonably withhold or delay their consent to press releases or public announcements.
+
+23	Inspection and Audit of Books and Records
+23.1	Retain Books and Records
+Each party shall keep its Books and Records (including personnel files) that relate to this agreement, and maintain them in a manner reasonably consistent with prior practices.
+
+23.2	Inspection and Audit
+On reasonable notice from the other party, each party shall provide the other party, and the other party's Representatives, reasonable access to its Books and Records that relate to this agreement (and allow the other party to make photocopies, at the other party's expense), during normal business hours.
+
+23.3	Corrections
+If either party's audit reveals errors or discrepancies in the other party's Books and Records, the other party shall promptly correct the error or discrepancy, including refunding any over-payments or making up any under-payments.
+
+24	Termination on Notice
+#PARTY A# may terminate this agreement for any reason on #TERMINATION NOTICE PERIOD# Business Days’ notice to #PARTY B#.
+
+25	Effect of Termination
+25.1	Termination of Obligations
+Subject to paragraph "PAYMENT OBLIGATIONS", on the expiration or termination of this agreement, each party's rights and obligations under this agreement will cease immediately.
+
+25.2	Payment Obligations
+On the expiration or termination of this agreement, each party shall
+1.	pay any amounts it owes to the other party, including payment obligations for services already rendered, work already performed, goods already delivered, or expenses already incurred, and
+2.	refund any payments received but not yet earned, including payments for services not rendered, work not performed, or goods not delivered, expenses forwarded.
+
+26	Indemnification
+26.1	Indemnification by #PARTY B#
+ #PARTY B# (as an indemnifying party) shall indemnify #PARTY A# (as an indemnified party) against all losses and expenses arising out of any proceeding
+1.	brought by either a third party or #PARTY A#, and
+2.	arising out of #PARTY B#'s breach of its obligations, representations, warranties, or covenants under this agreement.
+
+26.2	Indemnification by #PARTY A#
+#PARTY A# (as an indemnifying party) shall indemnify #PARTY B# (as an indemnified party) against all losses and expenses arising out of any proceeding
+1.	 brought by a third party, and 
+2.	arising out of a claim that #PARTY B#'s sale of Products infringes the third party's Intellectual Property rights.
+
+26.3	Mutual Indemnification
+Each party (as an indemnifying party) shall indemnify the other (as an indemnified party) against all losses arising out of any proceeding
+1.	brought by either a third party or an indemnified party, and
+2.	arising out of the indemnifying party's willful misconduct or gross negligence.
+
+26.4	Exclusions
+Neither party will be required to indemnify the other against losses to the extent the other party acted unlawfully, negligently, or intentionally to cause those losses.
+
+26.5	Notice and Failure to Notify
+1.	Notice Requirement. Before bringing a claim for indemnification, the indemnified party shall
+a.	notify the indemnifying party of the indemnifiable proceeding, and
+b.	deliver to the indemnifying party all legal pleadings and other documents reasonably necessary to indemnify or defend the indemnifiable proceeding.
+2.	Failure to Notify. If the indemnified party fails to notify the indemnifying party of the indemnifiable proceeding, the indemnifying will be relieved of its indemnification obligations to the extent it was prejudiced by the indemnified party's failure.
+
+26.6	Defense
+The indemnifying party may elect to defend the indemnified party in the proceeding by giving prompt written notice after receiving notice of the proceeding.
+
+26.7	Authority to Contest, Pay, or Settle
+The indemnifying party may contest, pay, or settle the proceeding without obtaining the indemnified party's consent, only if the indemnifying party's decision
+1.	does not require the indemnified party to make any admission that it acted unlawfully,
+2.	does not effect any other legal proceeding against the indemnified party,  
+3.	provides that the indemnifying party will pay the claimant's monetary damages in full, and
+4.	requires claimant release the indemnified party from all liability related to the proceeding. 
+
+26.8	Exclusive Remedy
+The parties' right to indemnification is the exclusive remedy available in connection with the indemnifiable proceedings described in this section "INDEMNIFICATION".
+
+27	Limitation on Liability
+27.1	Mutual Limitation on Liability
+Neither party will be liable for breach-of-contract damages that are remote or speculative, or that the breaching party could not reasonably have foreseen on entry into this agreement.
+
+27.2	#PARTY A#'s Maximum Liability
+#PARTY A#'s aggregate liability under this agreement will not exceed the amount of fees #PARTY B# has paid to #PARTY A#.
+
+28	Definitions
+"Books and Records" means all books and records, including books of account, ledgers and general, financial and accounting records, machinery and equipment maintenance files, lists of parties to and prospects for franchise agreements, supplier lists, production data, quality control records and procedures, customer complaints, inquiry files, research, development files, records, data (including all correspondence with any Governmental Authority), sales material and records (including pricing history and sales and pricing policies and practices), strategic plans, marketing and promotional surveys, and material, research, and files relating to Intellectual Property. 
+
+"Business Day" means a day other than a Saturday, a Sunday, or any other day on which the principal banks located in New York, New York are not open for business. 
+
+"Current Term" is defined in section "TERM".
+
+"Delivery Date" is defined in section "ORDERS".
+
+"Disclosure Schedule" means the schedules delivered, before the execution of this agreement, by each party to the other party which list, among other things, items the disclosure of which is necessary or appropriate either in response to an express disclosure requirement contained in a provision of this agreement or as an exception to one or more of the representations or warranties made by the party, or to one or more of the covenants of the party.
+
+"Discount" is defined in section "PRICE".
+
+"Effective Date" is defined in the introduction to this agreement.
+
+"Encumbrances" means any pledges, liens, charges, security interests, leases, title retention agreements, mortgages, restrictions, developments or similar agreements, easements, rights-of-way, title defects, options, adverse claims, or encumbrances of any kind. 
+
+"Governmental Authority" means 
+1.	 any federal, state, local, or foreign government, and any political subdivision of any of them, 
+2.	 any agency or instrumentality of any such government or political subdivision, 
+3.	 any self-regulated organization or other non-governmental regulatory authority or quasi-governmental authority (to the extent that its rules, regulations or orders have the force of law), and 
+4.	 any arbitrator, court or tribunal of competent jurisdiction. 
+
+"Initial Term" is defined in section "TERM".
+
+"Intellectual Property" means any and all of the following in any jurisdiction throughout the world 
+1.	 trademarks and service marks, including all applications and registrations, and the goodwill connected with the use of and symbolized by the foregoing,
+2.	 copyrights, including all applications and registrations related to the foregoing,
+3.	 trade secrets and confidential know-how,
+4.	 patents and patent applications,
+5.	 websites and internet domain name registrations, and 
+6.	 other intellectual property and related proprietary rights, interests and protections (including all rights to sue and recover and retain damages, costs and attorneys' fees for past, present, and future infringement, and any other rights relating to any of the foregoing). 
+
+"Inspection Period" is defined in section "ACCEPTANCE AND REJECTION OF PRODUCT DELIVERIES".
+
+"Law" means 
+1.	 any law (including the common law), statute, bylaw, rule, regulation, order, ordinance, treaty, decree, judgment, and 
+2.	 any official directive, protocol, code, guideline, notice, approval, order, policy, or other requirement of any Governmental Authority having the force of law.
+
+"Legal Proceeding" means any claim, investigation, hearing, legal action, or other legal, administrative, arbitral, or similar proceeding, whether civil or criminal (including any appeal or review of any of the foregoing).
+
+"Permits" means all material licenses, franchises, permits, certificates, approvals, and authorizations, from Governmental Authorities necessary for the ownership and operation of the party's business.
+
+"Person" includes 
+1.	 any corporation, company, limited liability company, partnership, Governmental Authority, joint venture, fund, trust, association, syndicate, organization, or other entity or group of persons, whether incorporated or not, and 
+2.	 any individual.
+
+"Products" means the goods and services listed in #ATTACHMENT#, attached to this agreement.
+
+"Purchase Order" is defined in section "ORDERS".
+
+"Renewal Term" is defined in section "TERM".
+
+"Taxes" includes all taxes, assessments, charges, duties, fees, levies, and other charges of a Governmental Authority, including income, franchise, capital stock, real property, personal property, tangible, withholding, employment, payroll, social security, social contribution, unemployment compensation, disability, transfer, sales, use, excise, gross receipts, value-added and all other taxes of any kind for which a party may have any liability imposed by any Governmental Authority, whether disputed or not, any related charges, interest or penalties imposed by any Governmental Authority, and any liability for any other person as a transferee or successor by Law, contract or otherwise. 
+
+"Territory" means [CLEARLY DESCRIBE THE GEOGRAPHIC SCOPE PARTY B IS AUTHORIZED TO SELL IN].
+
+29	Entire Agreement
+The parties intend that this agreement, together with all attachments, schedules, exhibits, and other documents that both are referenced in this agreement and refer to this agreement,
+1.	represent the final expression of the parties' intent relating to the subject matter of this agreement,
+2.	 contain all the terms the parties agreed to relating to the subject matter, and
+3.	replace all of the parties' previous discussions, understandings, and agreements relating to the subject matter of this agreement.
+
+30	Counterparts
+1.	Signed in Counterparts. This agreement may be signed in any number of counterparts.
+2.	All Counterparts Original. Each counterpart is an original.
+3.	Counterparts Form One Document. Together, all counterparts form one single document.
+
+31	Amendment 
+This agreement can be amended only by a writing signed by both parties.
+
+32	Relationship of the Parties
+32.1	No Relationship
+Nothing in this agreement creates any special relationship between the parties, such as a partnership, joint venture, or employee/employer relationship between the parties.
+
+32.2	No Authority
+Neither party will have the authority to, and will not, act as agent for or on behalf of the other party or represent or bind the other party in any manner.
+
+33	Assignment
+Neither party may assign this agreement or any of their rights or obligations under this agreement without the other party's written consent.
+
+34	Notices
+1.	Method of Notice. The parties shall give all notices and communications between the parties in writing by (i) personal delivery, (ii) a nationally-recognized, next-day courier service, (iii) first-class registered or certified mail, postage prepaid[, (iv) fax][, or (v) electronic mail] to the party's address specified in this agreement, or to the address that a party has notified to be that party's address for the purposes of this section.
+2.	Receipt of Notice. A notice given under this agreement will be effective on
+a.	the other party's receipt of it, or
+b.	if mailed, the earlier of the other party's receipt of it and the [fifth] business day after mailing it. 
+
+
+35	Dispute Resolution
+1.	Arbitration. Any dispute or controversy arising out of this agreement and "SUBJECT MATTER OF THE AGREEMENT" will be settled by arbitration in #STATE#, according to the rules of the American Arbitration Association then in effect, and by #NUMBER OF ARBITRATORS# arbitrator(s).
+2.	Judgment. Judgment may be entered on the arbitrator's award in any court having jurisdiction.
+3.	Arbitrator's Authority. The arbitrator will not have the power to award any punitive [or consequential] damages.
+
+36	Governing Law
+This agreement shall be governed, construed, and enforced in accordance with the laws of the State of #GOVERNING LAW STATE#, without regard to its conflict of laws rules.
+
+37	Waiver
+1.	Affirmative Waivers. Neither party's failure or neglect to enforce any rights under this agreement will be deemed to be a waiver of that party's rights.
+2.	Written Waivers. A waiver or extension is only effective if it is in writing and signed by the party granting it.
+3.	No General Waivers. A party's failure or neglect to enforce any of its rights under this agreement will not be deemed to be a waiver of that or any other of its rights.
+4.	No Course of Dealing. No single or partial exercise of any right or remedy will preclude any other or further exercise of any right or remedy.
+
+38	Force Majeure
+A party shall not be liable for any failure of or delay in the performance of this agreement for the period that such failure or delay is
+1.	 beyond the reasonable control of a party,
+2.	 materially affects the performance of any of its obligations under this agreement, and
+3.	 could not reasonably have been foreseen or provided against, but
+4.	will not be excused for failure or delay resulting from only general economic conditions or other general market effects.
+
+39	Severability
+If any part of this agreement is declared unenforceable or invalid, the remainder will continue to be valid and enforceable.
+
+40	Interpretation
+1.	References to Specific Terms
+a.	Accounting Principles. Unless otherwise specified, where the character or amount of any asset or liability, item of revenue, or expense is required to be determined, or any consolidation or other accounting computation is required to be made, that determination or calculation will be made in accordance with the generally accepted accounting principles defined by the professional accounting industry in effect in the United States ("GAAP").
+b.	Currency. Unless otherwise specified, all dollar amounts expressed in this agreement refer to American currency.
+c.	"Including." Where this agreement uses the word "including," it means "including without limitation," and where it uses the word "includes," it means "includes without limitation."
+d.	"Knowledge." Where any representation, warranty, or other statement in this agreement, or in any other document entered into or delivered under this agreement,] is expressed by a party to be "to its knowledge," or is otherwise expressed to be limited in scope to facts or matters known to the party or of which the party is aware, it means:
+i.	the then-current, actual knowledge of the directors and officers of that party, and
+ii.	the knowledge that would or should have come to the attention of any of them had they investigated the facts related to that statement and made reasonable inquiries of other individuals reasonably likely to have knowledge of facts related to that statement.
+e.	Statutes, etc. Unless specified otherwise, any reference in this agreement to a statute includes the rules, regulations, and policies made under that statute and any provision that amends, supplements, supersedes, or replaces that statute or those rules or policies.
+2.	Number and Gender. Unless the context requires otherwise, words importing the singular number include the plural and vice versa; words importing gender include all genders.
+3.	Headings. The headings used in this agreement and its division into sections, schedules, exhibits, appendices, and other subdivisions do not affect its interpretation.
+4.	Internal References. References in this agreement to sections and other subdivisions are to those parts of this agreement.
+5.	Calculation of Time. In this agreement, a period of days begins on the first day after the event that began the period and ends at 5:00 p.m. #TIME ZONE# Time on the last day of the period. If any period of time is to expire, or any action or event is to occur, on a day that is not a Business Day, the period expires, or the action or event is considered to occur, at 5:00 p.m. #TIME ZONE# Time on the next Business Day.
+6.	Construction of Terms. The parties have each participated in settling the terms of this agreement. Any rule of legal interpretation to the effect that any ambiguity is to be resolved against the drafting party will not apply in interpreting this agreement.
+7.	Conflict of Terms. If there is any inconsistency between the terms of this agreement and those in any schedule to this agreement or in any document entered into under this agreement, the terms of [this agreement/#SPECIFIED AGREEMENTS#] will prevail. The parties shall take all necessary steps to conform the inconsistent terms to the terms of [this agreement / #SPECIFIED AGREEMENTS#.
+
+41	 Binding Effect
+This [agreement/plan] will benefit and bind the parties and their respective heirs, successors, and permitted assigns.
+
+This agreement has been signed by the parties.
+#PARTY A NAME#
+#PARTY B NAME#
+Full Name:
+Title:
+Date:
+Signature:
+
+	Full Name:
+Title:
+Date:
+Signature:
+
+
+
+

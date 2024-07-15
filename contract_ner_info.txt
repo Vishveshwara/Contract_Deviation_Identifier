@@ -1,0 +1,22 @@
+**Key Entities:**
+
+* **Parties:**
+	+ ABC Corporation, located at 123 Business Rd, Business City, BS12345 (the "Disclosing Party")
+	+ XYZ Solutions, located at 789 Innovation St, Tech City, TC98765 (the "Receiving Party")
+* **Data:**
+	+ Confidential Information, as defined in Section 2 of the agreement
+* **Effective Date:** July 1, 2024
+* **Purpose:** The purpose of this Agreement is to set forth the terms and conditions under which Confidential Information will be disclosed by the Disclosing Party to the Receiving Party.
+* **Term:** This Agreement shall commence on the Effective Date and continue for a period of two (2) years, unless earlier terminated by either party with thirty (30) days' written notice.
+* **Obligations of the Parties:**
+	+ The Receiving Party agrees to maintain the confidentiality of the Confidential Information and use it solely for the purpose of evaluating or engaging in discussions concerning a potential business relationship between the parties.
+
+**Key Entities Deviations or Relationships which are not found:**
+
+* **Definitions of Confidential Information:** The contract does not provide a detailed definition of what constitutes Confidential Information, apart from stating that it includes any information, whether written, oral, electronic, or other form, disclosed by the Disclosing Party to the Receiving Party.
+* **Non-Disclosure of Discussions:** The contract does not explicitly state that discussions concerning potential business transactions are confidential.
+* **Return of Materials:** The contract does not specify the procedures for returning or destroying materials containing Confidential Information upon termination of the agreement.
+* **Governing Law:** The contract does not specify the governing law or dispute resolution mechanisms.
+* **Entire Agreement:** The contract does not specify whether it is the entire understanding between the parties regarding the subject matter or if there are any prior agreements or understandings that are still in effect.
+
+Note: The above answer is based on a thorough analysis of the provided contract and template. It is not a summary, but the actual content of the key entities and deviations found in the contract.

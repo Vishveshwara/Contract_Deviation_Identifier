@@ -1,0 +1,29 @@
+Employee Contract Template
+
+Title: (Look for keywords like "Employment Agreement" or "[Your Company Name] Employment Agreement")
+Parties Involved:
+Employer: (Look for phrases like "the Employer," "[Company Name]," or variations)
+Employee: (Look for phrases like "the Employee," "[Employee Name]," or variations)
+Terms and Conditions:
+Work Schedule: (Look for keywords like "Full-time," "Part-time," "Regular Hours," "Overtime Policy")
+Severance Package: (Look for keywords like "Severance Pay," "Separation Agreement," "Termination Package")
+Dress Code: (Look for keywords like "Dress Code," "Attire," "Professional Appearance") depending on your needs
+Labor Laws: (Look for references to specific labor laws or regulations) Optional, complexity may require advanced techniques
+Job Responsibilities:
+Job Title: (Look for titles like "Software Engineer," "Marketing Manager," etc.)
+Job Duties: (Look for sections titled "Responsibilities," "Duties," or identify verbs describing job tasks)
+Compensation Details:
+Salary: (Look for keywords like "Salary," "Hourly Rate," "Compensation," along with numerical values)
+Overtime: (Look for sections titled "Overtime" or keywords like "Overtime Pay," "Overtime Rate")
+Paid Holidays: (Look for a list of holidays or keywords like "Paid Holidays," "Holiday Pay")
+Payment Method: (Look for keywords like "Direct Deposit," "Paycheck") 
+Bonuses: (Look for keywords like "Bonuses," "Commissions," "Incentive Pay")
+Contractual Terms:
+Effective Date: (Look for keywords like "Effective Date")
+Employment Type: (Look for keywords like "Full-time," "Part-time," "Contract")
+Notice Period: (Look for keywords like "Notice of Termination," "Notice Period")
+Termination Clause: (Look for sections titled "Termination" or keywords like "Cause for Termination")
+Dispute Resolution: (Look for keywords like "Dispute Resolution," "Grievance Procedure") Optional
+Applicable Law: (Look for keywords like "Governing Law," "Jurisdiction") Optional
+Severability: (Look for the term "Severability" or similar wording)
+Termination Details: (Look for sections titled "Termination" or keywords like "Termination Clause," "Cause for Termination")

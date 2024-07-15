@@ -1,0 +1,299 @@
+Subscription Agreement
+This agreement is entered into as of the last date signed by the parties (the "Effective Date") between #PARTY A NAME#, [whose principal place of residence is at / a #PARTY A JURISDICTION# corporation with its principal place of business at #PARTY A ADDRESS#] (the "#PARTY A#") and #PARTY B NAME#, [whose principal place of residence is at / a #PARTY B JURISDICTION# corporation with its principal place of business at #PARTY B ADDRESS#] (the "#PARTY B#").
+
+(The capitalized terms used in this agreement, in addition to those above, are defined in section "DEFINITIONS".)
+
+1	Subscription
+#PARTY A# shall provide #PARTY B# with the subscription for #SHORT DESCRIPTION OF SUBSCRIPTION DELIVERABLE#, more further described in the #ATTACHMENT#, attached to this agreement (the "#DELIVERABLES#").
+
+2	Free Trial Plan
+2.1	Free Trial
+If #PARTY B# registers on #PARTY A#'s website for a free trial ("Free Trial"), #PARTY A# shall provide the Free Trial portion of the #DELIVERABLES# to #PARTY B# according to the terms of the Free Trial listed on #PARTY A#'s website at #URL#.
+
+2.2	Data Not Preserved
+Any Data #PARTY B# creates on #PARTY A#'s website during the Free Trial will be permanently lost, unless #PARTY B# either
+1.	purchases the same subscription included in the Free Trial or an upgraded subscription, or
+2.	exports its Data before the end of the Free Trial.
+
+2.3	No Warranties
+During the Free Trial, the #DELIVERABLES# is provided "as is" without any warranty.
+
+3	Fees
+#PARTY B# shall pay #PARTY A# a monthly subscription fee of #SUBSCRIPTION FEE AMOUNT# (the "Subscription Fee") for the #DELIVERABLES# provided under this agreement.
+
+4	Payment
+#PARTY B# shall pay the Subscription Fee to #PARTY A#
+1.	due on #NTH# of each month,
+2.	in immediately available funds, and
+3.	to the account #PARTY A# lists immediately below:
+Account Number:
+Routing Number:
+
+5	Taxes
+Payment amounts under this agreement do not include taxes, and #PARTY A# shall pay all Taxes applicable to payments between the parties under this agreement.
+
+6	Term
+This agreement will commence on the Effective Date, and will continue for #TERM PERIOD# months/years unless terminated earlier (the "Term").
+
+7	Representations
+7.1	Existence
+The parties are corporations incorporated and existing under the laws of the jurisdictions of their respective incorporation.
+
+7.2	Authority and Capacity
+The parties have the authority and capacity to enter into this agreement.
+
+7.3	Execution and Delivery
+The parties have duly executed and delivered this agreement.
+
+7.4	Enforceability
+This agreement constitutes a legal, valid, and binding obligation, enforceable against the parties in accordance with its terms.
+
+7.5	No Conflicts
+Neither party is under any restriction or obligation that may affect the performance of its obligations under this agreement.
+
+7.6	No Infringement
+Neither party's provision or use of the #DELIVERABLES# violates the Intellectual Property rights of any third party.
+
+8	No Warranty
+8.1	"As-Is"
+Unless otherwise listed in this agreement, the #DELIVERABLES# is provided "as is," with all faults, defects, bugs, and errors.
+
+8.2	No Warranty
+Unless otherwise listed in this agreement,
+1.	#PARTY A# does not make any warranty regarding the #DELIVERABLES#, which includes that 
+2.	#PARTY A# hereby disclaims to the [fullest] extent authorized by Law any and all [other] warranties, whether express or implied, including any implied warranties of [title, non-infringement, quiet enjoyment, integration,] merchantability or fitness for a particular purpose.
+
+9	Service Levels
+9.1	Standards and Schedules
+#PARTY A# will use commercially reasonable efforts to provide the #DELIVERABLES# to #PARTY B# according to the standards and schedule listed in the #ATTACHMENT#, attached to this agreement, except 
+
+9.2	ForceMajeure
+#PARTY A# will not be liable for its failure to meet standards or schedules caused by circumstances beyond #PARTY A#'s reasonable control.
+
+10	Support Services
+10.1	Initial Support
+For the [12] month period beginning on the Effective Date, and at #PARTY A#'s own expense, #PARTY A# shall provide #PARTY B# with 
+1.	telephone or electronic support during #PARTY A#'s normal business hours in order to help #PARTY B# identify and correct problems with the #DELIVERABLES#, and
+2.	internet-based support system generally available seven days a week, twenty-four hours a day. 
+
+10.2	Renewed Support
+After the initial [12] month support period, #PARTY B# may elect to renew #PARTY A#'s support services under this paragraph "SUPPORT" for additional [12] month periods, at #PARTY A#'s then-current service rates.
+
+11	Use of Logos
+#PARTY B# hereby grants #PARTY A# a non-exclusive, non-transferrable, non-sublicensable, and royalty-free license to use and reproduce #PARTY B#'s name, logos, and trademarks on #PARTY A#'s customer lists, advertising, and website.
+
+12	Use of Data
+12.1	Collection and Use of Data
+#PARTY A# may collect and use #PARTY B#'s Data only for the purpose of providing and improving the #DELIVERABLES#.
+
+12.2	Non-Disclosure
+#PARTY A# will not disclose this any of #PARTY B#'s Data in a form that personally identifies #PARTY B#.
+
+13	Interest on Late Payments
+Any amount not paid when due will bear interest from the due date until paid at a rate equal to [1]% per month ([12.68]% annually) or the maximum allowed by Law, whichever is less.
+
+14	Compliance with Laws
+Each party shall
+1.	comply with all Laws [relating to "SUBJECT MATTER OF THE AGREEMENT"],
+2.	keep records evidencing its compliance,
+3.	on the other party's reasonable request, provide these records of compliance to the other party, and
+4.	notify the other party if it becomes aware of any non-compliance in connection with this section.
+
+15	Export Control Laws
+Each party shall obtain all Permits necessary to and otherwise comply with all Laws on export control applicable to this agreement and all transactions contemplated under this agreement.
+
+16	Confidentiality
+16.1	Confidentiality Obligation
+The receiving party shall hold in confidence all Confidential Information disclosed by the disclosing party to the receiving party.
+
+16.2	Use Solely for Purpose
+A receiving party may only use the Confidential Information according to the terms of this agreement[ and solely for the Purpose].
+
+16.3	Non-Disclosure
+A receiving party may not disclose Confidential Information, [the existence of this agreement, the Transaction, or the Purpose] to any third party, except to the extent
+1.	permitted by this agreement
+2.	the disclosing party consents to in writing, or
+3.	required by Law.
+
+16.4	Notice
+A receiving party shall notify the disclosing party if it
+1.	is required by Law to disclose any Confidential Information, or
+2.	learns of any unauthorized disclosure of Confidential Information.
+
+17	Intellectual Property
+Except for rights expressly granted under this agreement,
+1.	nothing in this agreement will function to transfer any of either party's Intellectual Property rights to the other party, and
+2.	each party will retain exclusive interest in and ownership of its Intellectual Property developed before this agreement or developed outside the scope of this agreement.
+
+18	Termination
+18.1	Termination on Notice
+Either party may terminate this agreement for any reason on#TERMINATION NOTICE PERIOD# Business Days’ notice to the other party.
+
+18.2	Termination for Material Breach
+Each party may terminate this agreement with immediate effect by delivering notice of the termination to the other party, if
+1.	the other party fails to perform, has made or makes any inaccuracy in, or otherwise materially breaches, any of its obligations, covenants, or representations, and
+2.	the failure, inaccuracy, or breach continues for a period of #BREACH CONTINUATION DAYS# Business Days' after the injured party delivers notice to the breaching party reasonably detailing the breach.
+
+18.3	Termination for Failure to Pay
+#PARTY A# may terminate this agreement with immediate effect by delivering notice of the termination to #PARTY B# if #PARTY B# fails to pay the monthly Subscription Fee on time [three] times over any 12 month period. 
+
+19	Suspension of Subscription for Non-Payment
+19.1	Right to Suspend
+#PARTY A# may suspend its provision of the #DELIVERABLES# if #PARTY B# fails to timely pay a monthly Subscription Fee if
+1.	within [five] Business Days' of the payment being due, #PARTY A# notifies #PARTY B# of the failure to pay, and
+2.	#PARTY B# does not make the payment within [30] Business Days' after receiving #PARTY A#'s notice. 
+
+19.2	Resumption of Subscription
+#PARTY A# shall resume providing the #DELIVERABLES# once #PARTY B# pays all outstanding Subscription Fees.
+
+19.3	No Liability During Suspension
+#PARTY A# will not be liable to #PARTY B# for any liabilities, claims, or expenses arising out of the suspension of the #DELIVERABLES# under this section.
+
+20	Effect of Termination
+20.1	Refund Subscription Fees
+#PARTY A# shall immediately refund to #PARTY B# any prepaid Subscription Fees covering the remainder of the term of all subscriptions after the effective date of termination. 
+
+20.2	Pay Outstanding Subscription Fees
+#PARTY B# shall immediately pay to #PARTY A# all Subscription Fees outstanding as of the date of, and any amounts outstanding as a result of, termination.
+
+21	Indemnification
+21.1	Indemnification by #PARTY A#
+1.	Indemnification for Infringement Claims. Subject to paragraph "EXCLUSIONS", #PARTY A# (as an indemnifying party) shall indemnify #PARTY B# (as an indemnified party) against all losses and expenses arising out of any proceeding
+a.	brought by either a third party, and
+b.	arising out of a claim that the #DELIVERABLES# infringe the third party's Intellectual Property rights.
+
+
+21.2	Mutual Indemnification
+Each party (as an indemnifying party) shall indemnify the other (as an indemnified party) against all losses arising out of any proceeding
+1.	brought by either a third party or an indemnified party, and
+2.	arising out of the indemnifying party's willful misconduct or gross negligence.
+
+21.3	Notice and Failure to Notify
+1.	Notice Requirement. Before bringing a claim for indemnification, the indemnified party shall
+a.	notify the indemnifying party of the indemnifiable proceeding, and
+b.	deliver to the indemnifying party all legal pleadings and other documents reasonably necessary to indemnify or defend the indemnifiable proceeding.
+2.	Failure to Notify. If the indemnified party fails to notify the indemnifying party of the indemnifiable proceeding, the indemnifying will be relieved of its indemnification obligations to the extent it was prejudiced by the indemnified party's failure.
+
+21.4	Exclusive Remedy
+The parties' right to indemnification is the exclusive remedy available in connection with the indemnifiable proceedings described in this section "INDEMNIFICATION".
+
+22	Limitation on Liability
+Neither party will be liable for breach-of-contract damages that are remote or speculative, or that the breaching party could not reasonably have foreseen on entry into this agreement.
+
+23	Definitions
+"Business Day" means a day other than a Saturday, a Sunday, or any other day on which the principal banks located in New York, New York are not open for business. 
+
+"Confidential Information" means all material, non-public, business-related information, written or oral, whether or not it is marked as confidential, that is disclosed or made available to the recipient, directly or indirectly, through any means of communication or observation by the disclosing party or any of its affiliates or representatives. 
+
+"Data" means all of #PARTY B#'s data and information submitted and received through the use and provision of the #DELIVERABLES#.
+
+"Effective Date" is defined in the introduction to this agreement.
+
+"Free Trial" is defined in section "FREE TRIAL PLAN".
+
+"Intellectual Property" means any and all of the following in any jurisdiction throughout the world 
+1.	 trademarks and service marks, including all applications and registrations, and the goodwill connected with the use of and symbolized by the foregoing, 
+2.	 copyrights, including all applications and registrations related to the foregoing, 
+3.	 trade secrets and confidential know-how, 
+4.	 patents and patent applications, 
+5.	 websites and internet domain name registrations, and 
+6.	 other intellectual property and related proprietary rights, interests and protections (including all rights to sue and recover and retain damages, costs and attorneys' fees for past, present, and future infringement, and any other rights relating to any of the foregoing). 
+
+"Permits" means all material licenses, franchises, permits, certificates, approvals, and authorizations, from Governmental Authorities necessary for the ownership and operation of the party's business. 
+
+"Restricted Period" is defined in section "CONFIDENTIALITY OBLIGATIONS".
+
+"Subscription" is defined in section "SUBSCRIPTION".
+
+"Subscription Fee" is defined in section "SUBSCRIPTION FEES".
+
+"Taxes" includes all taxes, assessments, charges, duties, fees, levies, and other charges of a Governmental Authority, including income, franchise, capital stock, real property, personal property, tangible, withholding, employment, payroll, social security, social contribution, unemployment compensation, disability, transfer, sales, use, excise, gross receipts, value-added and all other taxes of any kind for which a party may have any liability imposed by any Governmental Authority, whether disputed or not, any related charges, interest or penalties imposed by any Governmental Authority, and any liability for any other person as a transferee or successor by Law, contract or otherwise. 
+
+"Term" is defined in section "TERM".
+
+24	Entire Agreement
+The parties intend that this agreement, together with all attachments, schedules, exhibits, and other documents that both are referenced in this agreement and refer to this agreement,
+1.	represent the final expression of the parties' intent relating to the subject matter of this agreement,
+2.	 contain all the terms the parties agreed to relating to the subject matter, and
+3.	replace all of the parties' previous discussions, understandings, and agreements relating to the subject matter of this agreement.
+
+25	Amendment 
+This agreement can be amended only by a writing signed by both parties.
+
+26	Assignment
+Neither party may assign this agreement or any of their rights or obligations under this agreement without the other party's written consent.
+
+27	No Third-Party Beneficiaries
+Unless explicitly stated otherwise elsewhere in this agreement, no Person other than the parties themselves has any rights or remedies under this agreement.
+
+28	Notices
+1.	Method of Notice. The parties shall give all notices and communications between the parties in writing by (i) personal delivery, (ii) a nationally-recognized, next-day courier service, (iii) first-class registered or certified mail, postage prepaid[, (iv) fax][, or (v) electronic mail] to the party's address specified in this agreement, or to the address that a party has notified to be that party's address for the purposes of this section.
+2.	Receipt of Notice. A notice given under this agreement will be effective on
+a.	the other party's receipt of it, or
+b.	if mailed, the earlier of the other party's receipt of it and the [fifth] business day after mailing it. 
+
+
+29	Severability
+If any part of this agreement is declared unenforceable or invalid, the remainder will continue to be valid and enforceable.
+
+30	Waiver
+1.	Affirmative Waivers. Neither party's failure or neglect to enforce any rights under this agreement will be deemed to be a waiver of that party's rights.
+2.	Written Waivers. A waiver or extension is only effective if it is in writing and signed by the party granting it.
+3.	No General Waivers. A party's failure or neglect to enforce any of its rights under this agreement will not be deemed to be a waiver of that or any other of its rights.
+4.	No Course of Dealing. No single or partial exercise of any right or remedy will preclude any other or further exercise of any right or remedy.
+
+31	Force Majeure
+A party shall not be liable for any failure of or delay in the performance of this agreement for the period that such failure or delay is
+1.	 beyond the reasonable control of a party,
+2.	 materially affects the performance of any of its obligations under this agreement, and
+3.	 could not reasonably have been foreseen or provided against, but
+4.	will not be excused for failure or delay resulting from only general economic conditions or other general market effects.
+
+32	Governing Law
+This agreement shall be governed, construed, and enforced in accordance with the laws of the State of #GOVERNING LAW STATE#, without regard to its conflict of laws rules.
+
+33	Dispute Resolution
+1.	Arbitration. Any dispute or controversy arising out of this agreement and "SUBJECT MATTER OF THE AGREEMENT" will be settled by arbitration in #STATE#, according to the rules of the American Arbitration Association then in effect, and by #NUMBER OF ARBITRATORS# arbitrator(s).
+2.	Judgment. Judgment may be entered on the arbitrator's award in any court having jurisdiction.
+3.	Arbitrator's Authority. The arbitrator will not have the power to award any punitive [or consequential] damages.
+
+34	Attorney Fees
+If either party brings an Action to enforce their rights under this agreement, the prevailing party may recover its expenses (including reasonable attorneys' fees) incurred in connection with the Action and any appeal from the losing party.
+
+35	Counterparts
+1.	Signed in Counterparts. This agreement may be signed in any number of counterparts.
+2.	All Counterparts Original. Each counterpart is an original.
+3.	Counterparts Form One Document. Together, all counterparts form one single document.
+
+36	Interpretation
+1.	References to Specific Terms
+a.	Accounting Principles. Unless otherwise specified, where the character or amount of any asset or liability, item of revenue, or expense is required to be determined, or any consolidation or other accounting computation is required to be made, that determination or calculation will be made in accordance with the generally accepted accounting principles defined by the professional accounting industry in effect in the United States ("GAAP").
+b.	Currency. Unless otherwise specified, all dollar amounts expressed in this agreement refer to American currency.
+c.	"Including." Where this agreement uses the word "including," it means "including without limitation," and where it uses the word "includes," it means "includes without limitation."
+d.	"Knowledge." Where any representation, warranty, or other statement in this agreement, or in any other document entered into or delivered under this agreement,] is expressed by a party to be "to its knowledge," or is otherwise expressed to be limited in scope to facts or matters known to the party or of which the party is aware, it means:
+i.	the then-current, actual knowledge of the directors and officers of that party, and
+ii.	the knowledge that would or should have come to the attention of any of them had they investigated the facts related to that statement and made reasonable inquiries of other individuals reasonably likely to have knowledge of facts related to that statement.
+e.	Statutes, etc. Unless specified otherwise, any reference in this agreement to a statute includes the rules, regulations, and policies made under that statute and any provision that amends, supplements, supersedes, or replaces that statute or those rules or policies.
+2.	Number and Gender. Unless the context requires otherwise, words importing the singular number include the plural and vice versa; words importing gender include all genders.
+3.	Headings. The headings used in this agreement and its division into sections, schedules, exhibits, appendices, and other subdivisions do not affect its interpretation.
+4.	Internal References. References in this agreement to sections and other subdivisions are to those parts of this agreement.
+5.	Calculation of Time. In this agreement, a period of days begins on the first day after the event that began the period and ends at 5:00 p.m. #TIME ZONE# Time on the last day of the period. If any period of time is to expire, or any action or event is to occur, on a day that is not a Business Day, the period expires, or the action or event is considered to occur, at 5:00 p.m. #TIME ZONE# Time on the next Business Day.
+6.	Construction of Terms. The parties have each participated in settling the terms of this agreement. Any rule of legal interpretation to the effect that any ambiguity is to be resolved against the drafting party will not apply in interpreting this agreement.
+7.	Conflict of Terms. If there is any inconsistency between the terms of this agreement and those in any schedule to this agreement or in any document entered into under this agreement, the terms of [this agreement/#SPECIFIED AGREEMENTS#] will prevail. The parties shall take all necessary steps to conform the inconsistent terms to the terms of [this agreement / #SPECIFIED AGREEMENTS#.
+
+This agreement has been signed by the parties.
+#PARTY A NAME#
+#PARTY B NAME#
+Full Name:
+Title:
+Date:
+Signature:
+
+	Full Name:
+Title:
+Date:
+Signature:
+
+
+
+

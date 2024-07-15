@@ -1,0 +1,69 @@
+Title: Investor Rights Agreement
+
+Parties Involved:
+
+Company: [Company Name], a [corporation/partnership/LLC] organized under the laws of [State/Country], with its principal place of business at [Address] ("Company").
+Investor: [Investor Name or Company Name], with its principal place of business at [Address] ("Investor").
+
+1. Definitions:
+Common Stock: The common stock, [class of common stock], of the Company.
+Preferred Stock: The preferred stock, [class of preferred stock], of the Company.
+Registrable Securities: The shares of Common Stock issuable or issued on conversion of the Preferred Stock and any other securities defined as Registrable Securities in this Agreement.
+Qualified IPO: A firm commitment underwritten public offering of the Company's Common Stock under a registration statement on Form S-1 (or any successor form) under the Securities Act, with a public offering price of at least [Share Price] per share, resulting in aggregate cash proceeds to the Company of at least [Minimum Company Cash Proceeds] (before payment of underwriter's discounts and commissions).
+Major Investor: An Investor holding at least [500,000] shares of Registrable Securities (subject to adjustment for stock splits, stock dividends, combinations, or the like).
+
+2. Registration Rights:
+Demand Registration: Initiating Holders (holders of at least 50% of the Registrable Securities) can demand that the Company file a registration statement for their shares.
+Piggyback Registration: If the Company proposes to register any of its securities, it shall offer the Investors the opportunity to include their Registrable Securities in the registration.
+Form S-3 Registration: If the Company is eligible to use Form S-3, the Major Investors may request an unlimited number of registrations on Form S-3.
+
+3. Information Rights:
+Annual Financial Statements: The Company shall deliver to each Major Investor its audited balance sheet and income statement within [60] days after the fiscal year-end.
+Quarterly Financial Statements: The Company shall deliver its unaudited quarterly income statement and statement of cash flows within [30] days after the end of each quarter.
+Inspection Rights: Major Investors may, at their own expense, inspect the Company's properties, books, and records upon reasonable notice during normal business hours.
+
+4. Board Representation:
+Board Composition: The Company's Board shall consist of [Number of Directors] directors.
+Election of Directors: The Investors shall elect [Designated Number] directors to the Board.
+Board Observers: [Designating Director Name] shall appoint one or more persons to observe Board and committee meetings, with the right to participate in discussions, subject to exclusions for privilege or conflicts.
+
+5. Right of First Offer:
+Notice of New Shares: If the Company proposes to issue new shares, it shall notify each Investor, offering them the right to purchase their pro-rata portion.
+Pro-rata Portion: The proportion of shares each Investor may purchase, based on the number of shares of Common Stock they hold relative to the total outstanding shares.
+
+6. Expenses:
+Reimbursement: The Company shall reimburse directors and observers for all reasonable out-of-pocket expenses incurred in attending Board and committee meetings.
+
+7. Confidentiality:
+Non-Disclosure Agreement: The parties shall be bound by the terms of the non-disclosure agreement dated [Date] and attached as [Attachment Number].
+
+8. Indemnification:
+Indemnity: The Company shall indemnify and hold harmless the Investors from any claims arising out of a breach of this Agreement, subject to limitations set forth in the Agreement.
+
+9. Termination:
+Duration: This Agreement will terminate on the earlier of (i) immediately before the closing of an Acquisition or (ii) [five] years following the closing of a Qualified IPO.
+
+10. Governing Law and Dispute Resolution:
+Governing Law: This Agreement shall be governed by and construed in accordance with the laws of [State/Country].
+Dispute Resolution: Any disputes arising out of or relating to this Agreement shall be resolved through [arbitration/mediation/litigation] in [City, State/Country].
+
+11. Miscellaneous:
+Entire Agreement: This Agreement constitutes the entire agreement between the parties regarding the subject matter hereof.
+Amendment: Any amendment to this Agreement must be in writing and signed by both parties.
+Severability: If any provision of this Agreement is found to be invalid or unenforceable, the remaining provisions shall remain in full force and effect.
+
+12. Signatures:
+In Witness Whereof, the parties hereto have executed this Investor Rights Agreement as of the Effective Date.
+
+Company:
+
+Full Name:
+Title:
+Date:
+Signature:
+Investor:
+
+Full Name:
+Title:
+Date:
+Signature:
